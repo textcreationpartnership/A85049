@@ -1,0 +1,1626 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a dispute between Francis Fullwood minister of West-Alrington in the county of Devon, and one Thomas Salt-House, as 'tis said, of the county of Westmerland: before the congregation of them, called, Quakers; with some others that accidentally heard thereof: in the house of Henry Pollexsen, Esq; in the said parish of West-Alrington. On Tuesday the 24th day of October 1656. / Published by some that were present at the dispute; out of a single and sincere desire, that error may be shames, and the truth cleared. Together with an answer to James Godfries queries, by the said F.F.</title>
+            <author>Fullwood, Francis, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85049</idno>
+            <idno type="STC">Wing F2520</idno>
+            <idno type="STC">Thomason E892_12</idno>
+            <idno type="STC">ESTC R206561</idno>
+            <idno type="EEBO-CITATION">99865687</idno>
+            <idno type="PROQUEST">99865687</idno>
+            <idno type="VID">168419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168419)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E892[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a dispute between Francis Fullwood minister of West-Alrington in the county of Devon, and one Thomas Salt-House, as 'tis said, of the county of Westmerland: before the congregation of them, called, Quakers; with some others that accidentally heard thereof: in the house of Henry Pollexsen, Esq; in the said parish of West-Alrington. On Tuesday the 24th day of October 1656. / Published by some that were present at the dispute; out of a single and sincere desire, that error may be shames, and the truth cleared. Together with an answer to James Godfries queries, by the said F.F.</title>
+                  <author>Fullwood, Francis, d. 1693.</author>
+               </titleStmt>
+               <extent>[6], 19, [1]; 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Abel Roper at the sign of the Sun in Fleet-street over against St. Dunstans Church.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A brief and plain answer to James Godfrie's queries, .." has caption title; pagination separate but register continuous.</note>
+                  <note>Annotation on Thomason copy: "Nou: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, James, fl. 1656 --  Early works to 1800.</term>
+               <term>Fullwood, Francis, d. 1693 --  Early works to 1800.</term>
+               <term>Salthouse, Thomas, 1630-1691 --  Early works to 1800.</term>
+               <term>Religious disputations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:168419:1" rendition="simple:additions"/>
+                  <p>A True Relation OF A DISPUTE, BETWEEN <hi>Francis Fullwood</hi> Miniſter of <hi>Weſt-Alrington</hi> in the County of <hi>Devon,</hi> and one <hi>Thomas Salt-Houſe,</hi> as 'tis ſaid, of the County of <hi>Weſtmerland:</hi> before the <hi>Congregation</hi> of them, called, <hi>Quakers;</hi> with <hi>ſome</hi> others that <hi>accidentally</hi> heard thereof: In the Houſe of <hi>Henry Pollexfen,</hi> Eſq; in the ſaid Pariſh of <hi>West-Alrington.</hi>
+                  </p>
+                  <p>On <hi>Tueſday</hi> the 24<hi rend="sup">th</hi> day of <hi>October</hi> 1656.</p>
+                  <p>Publiſhed by <hi>ſome</hi> that were <hi>preſent</hi> at the <hi>Diſpute;</hi> out of a ſingle and ſincere deſire, that <hi>Error</hi> may be ſha<g ref="char:EOLhyphen"/>med, and the <hi>Truth</hi> cleared.</p>
+                  <p>
+                     <hi>Together</hi> with an <hi>Anſwer</hi> to <hi>James Godfries</hi> Queries, By the ſaid <hi>F. F.</hi>
+                  </p>
+                  <q>
+                     <hi>I will provoke you to jealouſie by them that are no people, and by a fooliſh Nation will I anger you.</hi> 
+                     <bibl>ROM. 10. 19.</bibl>
+                  </q>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>Abel Roper</hi> at the Sign of the Sun in Fleet-ſtreet over againſt S<hi rend="sup">t</hi> 
+                     <hi>Dunſtans</hi> Church. 1656.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:168419:2"/>
+                  <pb facs="tcp:168419:2"/>
+                  <head>The Preface to the Reader.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg>T ſeemeth ſtrange to ſome, that M<hi>
+                        <hi rend="sup">r</hi> Fullwood</hi> would venture to go into the <hi>Quakers</hi> meet<g ref="char:EOLhyphen"/>ing; but his encouragement thereunto was, that that <hi>friend</hi> who deſired him to go, hoped that much <hi>good</hi> might be done thereby; and alſo, aſſured M. <hi>Fullwood</hi> from M. <hi>Pol<g ref="char:EOLhyphen"/>lexfen,</hi> in whoſe <hi>houſe</hi> the meeting conſtantly is, that he ſhould have free <hi>liberty.</hi>
+                  </p>
+                  <p>It ſeemeth yet <hi>more</hi> ſtrange, that M. <hi>Fullwood</hi> would go himſelf, without giving any notice thereof to any of his <hi>friends</hi> who might have been helpfull, at leaſt, as <hi>witneſſes</hi> to him. But for ſatisfaction hereunto, the <hi>warning</hi> was ſo ſhort <hi>(viz.</hi> on <hi>Munday</hi> evening, for <hi>Tueſday</hi> morning at eight a clock,) that that could not have been done well. Beſides, he had no thoughts of making a ſet <hi>diſpute</hi> of it, till provoked by the <hi>Quakers</hi> railing diſcourſe. And had he not gone, ſome would have been ready enough to have ſaid, he durſt not.</p>
+                  <p>If any take occaſion to wonder at the <hi>printing</hi> hereof, the <hi>rea<g ref="char:EOLhyphen"/>ſons</hi> are plainly thus.</p>
+                  <p n="1">1. We hear, that the <hi>Quaker</hi> threatens to print the <hi>debate</hi> himſelf, from whom we can expect no faithfullneſs therein.</p>
+                  <p n="2">2. We hear, that ſome <hi>others,</hi> who did not write, ſay, they will lay their heads together, and <hi>print</hi> as much as they can <hi>remember;</hi> which, if they ſhould, it muſt needs be done very imperfectly.</p>
+                  <p n="3">3. We hear, that ſince, we ſuppoſe <hi>prejudiced</hi> perſons, are ready to ſay, that the <hi>Quaker</hi> had the <hi>beſt:</hi> which, unleſs we count <hi>railing,</hi> reaſoning; and <hi>impudence,</hi> Arguments; we unfainedly think, we have all reaſon to <hi>wonder</hi> at. Eſpecial<g ref="char:EOLhyphen"/>ly, when we conſider how <hi>readily, plainly, punctually,</hi> and even, from the very <hi>Scriptures,</hi> which he himſelf urged, he
+<pb facs="tcp:168419:3"/> was in every thing <hi>refuted,</hi> not giving any <hi>ſatisfactory</hi> reply to any one anſwer made by M. <hi>Fullwood,</hi> as we confidently preſume would eaſily be acknowledged, by thoſe, that are moſt prejudiced, would they but ſeek to remember the moſt <hi>plauſible,</hi> or elſe every one of his <hi>replies,</hi> one after another; and <hi>ſeriouſ<g ref="char:EOLhyphen"/>ly,</hi> though never ſo <hi>briefly</hi> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igh them; which, <hi>without par<g ref="char:EOLhyphen"/>tiality,</hi> we earneſtly beſeech them to do. Wherefore we humbly put this Narrative before them, that their more ſteady <hi>eye</hi> may take a truer apprehenſion thereof, than their <hi>ear</hi> before had done.</p>
+                  <p>Let none <hi>ſlander</hi> us with unfaithfullneſs in the <hi>relation:</hi> We are very certain, that we have given the <hi>whole reaſon</hi> on <hi>both</hi> ſides, and that thoſe which lie under greateſt prejudice, will, upon the <hi>reading</hi> hereof, be forced to confeſs, that moſt of the very <hi>words</hi> of M. <hi>Fullwood</hi> are here ſet down. Truth is, the <hi>Quaker</hi> was ſo full of <hi>impertinencies</hi> and repetitions, that his words here ſet down, ſeem to bear no <hi>proportion</hi> to his tedious and rude <hi>diſcourſes:</hi> but verily, we are not <hi>con<g ref="char:EOLhyphen"/>ſcious</hi> to our ſelves, of omitting the leaſt part of <hi>reaſon,</hi> or <hi>ſhew</hi> of reaſon, brought by him: and <hi>words</hi> without <hi>reaſon</hi> may paſs as <hi>wind.</hi>
+                  </p>
+                  <p>If any other can remember the leaſt part of his <hi>reaſon,</hi> not here noted, they may <hi>print</hi> it, if it be worth the <hi>Preſs.</hi> Yet we are again confident they cannot.</p>
+                  <p>Yea, the weight and evidence of M. <hi>Fullwoods</hi> anſwers, though <hi>extemporary,</hi> is ſuch, that we think we may ſafely let them looſe, not only to what <hi>was</hi> ſaid that day, but to what <hi>can</hi> be replied, upon the <hi>deliberation</hi> of all the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> betwixt this and <hi>Weſtmerland,</hi> from whence 'tis ſaid this <hi>Quaker</hi> came.</p>
+                  <p>So that, if any ſhall <hi>print another</hi> Narrative, let them but be <hi>faithfull</hi> in ſetting down M. <hi>Fullwoods own</hi> anſwers or arguments, in their <hi>due</hi> weight and fullneſs, or as they are <hi>here</hi> repreſented, and they may take what liberty they pleaſe in ſetting down <hi>his</hi> anſwers, or <hi>any</hi> other <hi>themſelves</hi> can frame, or obtain from <hi>others.</hi> We may <hi>give</hi> freely, where we know it will be <hi>freely taken</hi> whether we give or not.</p>
+                  <pb facs="tcp:168419:3"/>
+                  <p> We know not that we have concealed any thing, ſave ſome <hi>infirmities,</hi> viz. repreaches and vile ſpeeches; which indeed were ſuch and ſo many, as even forced ſome of M. <hi>Fullwoods</hi> more <hi>ingenuous adverſaries</hi> to ſay, that they wondred that <hi>fleſh and blood</hi> could continue ſo long under ſuch temptations with ſo much <hi>patience</hi> and <hi>meekneſs</hi> as <hi>he</hi> did; and (to uſe the words of <hi>another</hi> of them) they did verily be<g ref="char:EOLhyphen"/>leeve, <note place="margin">E. I.</note> not another <hi>Miniſter</hi> in <hi>England,</hi> could have done the <hi>like.</hi>
+                  </p>
+                  <div type="part">
+                     <head>There were ſome things very <hi>remarkeable,</hi>
+                     </head>
+                     <p n="1">1. The <hi>cunning craftineſs</hi> of the <hi>Quaker</hi> was ſuch, that do what M. <hi>Fullwood</hi> could to force him to it, he ſtill found ſome <hi>trick</hi> or other to <hi>evade</hi> the maintaining <hi>thoſe</hi> paſſages (of <hi>dangerous conſequence)</hi> which he let fall in his firſt diſcourſe, which were not a <hi>few,</hi> and which <hi>he</hi> took notice, that M. <hi>Fullwood</hi> wrote down.</p>
+                     <p n="2">2. That he took all <hi>occaſions</hi> to bring the <hi>diſpute</hi> to ſuch <hi>points,</hi> as lie in difference betwixt us and the <hi>Anabaptiſts;</hi> that thus he might engage the <hi>Anabaptiſts</hi> with himſelf; which he <hi>indeed</hi> effected, the greateſt advantage that he got that day.</p>
+                     <p n="3">3. That, upon every <hi>ſtand</hi> or difficulty, he continually fled unto the <hi>common refuge,</hi> of <hi>Hireling,</hi> taking <hi>Tythes,</hi> divi<g ref="char:EOLhyphen"/>ning for <hi>money,</hi> &amp;c. diſcourſe too <hi>gratefull</hi> with <hi>ſuch</hi> people, as uſe to follow <hi>ſuch</hi> leaders.</p>
+                     <p n="4">4. Though he at firſt urged to have the <hi>expreſs</hi> words of <hi>Scripture,</hi> to be the <hi>Rule</hi> of the <hi>Diſpute:</hi> yet he <hi>himſelf</hi> did not ſo much, as once, keep himſelf ſo exactly thereunto; which would perſwade us, that he had ſome further <hi>fetch</hi> therein, which he had no <hi>opportunity</hi> to <hi>diſcover.</hi>
+                     </p>
+                     <p n="5">5. Yet his <hi>cunning</hi> deceived him, in that, as is moſt <hi>remar<g ref="char:EOLhyphen"/>kable;</hi> the very <hi>Texts,</hi> which he himſelf urged, as before was noted, afforded ſo <hi>direct</hi> and <hi>plain</hi> an anſwer, upon <hi>every</hi> occaſion, that he had no room left for any <hi>colourable</hi> reply: and which forced him to fill up the <hi>time</hi> with, either most <hi>emp<g ref="char:EOLhyphen"/>ty</hi> talk, or <hi>abuſive</hi> ſpeeches<g ref="char:punc">▪</g> or plain <hi>ſilence:</hi> thereby, giving way to <hi>others,</hi> to <hi>divert</hi> the diſcourſe.</p>
+                     <p n="6">6. <hi>Laſtly,</hi> and which did <hi>juſtly amaze</hi> us, how <hi>boldly,</hi> and
+<pb facs="tcp:168419:4"/> with what <hi>enforcing</hi> repetitions, did M. <hi>Fullwood</hi> challenge him, to ſet down <hi>his</hi> opinions; and <hi>engage,</hi> that thereupon, he would, at the <hi>next meeting,</hi> bring <hi>Papiſts</hi> books, and ſhew the people <hi>his</hi> opinions <hi>therein!</hi> and how <hi>faintly,</hi> and almost <hi>taun<g ref="char:EOLhyphen"/>tingly,</hi> and at laſt, even <hi>ſhamefully,</hi> and <hi>ſilently</hi> did he let it ſlip; as appears more <hi>fully,</hi> and moſt remarkeably in the diſ<g ref="char:EOLhyphen"/>courſe. Which, doth even <hi>perſwade</hi> us, when we have thought thereupon <hi>ſince,</hi> that though M. <hi>Fullwood</hi> had more <hi>charity</hi> for him, in his diſcourſe, yet, indeed, he was a <hi>Papiſt.</hi>
+                     </p>
+                     <p>The Lord <hi>awaken</hi> us betimes, leaſt we ſay <hi>peace, peace,</hi> when ſudden <hi>deſtruction</hi> cometh.</p>
+                     <closer>
+                        <salute>Vale.</salute>
+                     </closer>
+                  </div>
+               </div>
+            </front>
+            <body>
+               <div type="tract">
+                  <pb n="1" facs="tcp:168419:4"/>
+                  <head>A True Relation OF A DISPUTE between <hi>Francis Fullwood,</hi> &amp;c.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He <hi>Quaker</hi> having ended his <hi>long</hi> diſcourſe, the <hi>drift</hi> whereof, ſeemed to be onely, to call the people to minde the <hi>light within</hi> them, and to cry <hi>down</hi> the <hi>Ministery,</hi> under the title of <hi>falſe prophets;</hi> M<hi rend="sup">r</hi> 
+                     <hi>Fullwood</hi> turned himſelf to M<hi rend="sup">r</hi> 
+                     <hi>Pollexfen</hi> and ſaid: M. <hi>Pollexfen,</hi> I acknowledg my ſelf under your <hi>roof,</hi> and therefore I ſhall ſpeak nothing <hi>here</hi> without your <hi>leave.</hi> M. <hi>Pollexfen</hi> replied, you have <hi>liberty</hi> to ſpeak your <hi>mind.</hi>
+                  </p>
+                  <p>But, before M. <hi>Fullwood</hi> could begin to ſpeak, he was <hi>pre<g ref="char:EOLhyphen"/>vented</hi> by a <hi>woman</hi> Quaker, who began before him, and forced the <hi>company</hi> to waite with <hi>patience</hi> till ſhe had ended, <hi>ſuch</hi> another, though <hi>ſhorter</hi> diſcourſe, as her <hi>brother before</hi> had delivered. When ſhe had ended, M. <hi>Fullwood</hi> began to <hi>this</hi> effect.</p>
+                  <sp>
+                     <speaker>Fullwood.</speaker>
+                     <p>I have <hi>one</hi> word, <hi>firſt,</hi> unto this <hi>woman,</hi> that ſpake laſt, and <hi>that</hi> is, to <hi>charge</hi> her, with ſpeaking <hi>expreſly</hi> againſt the <hi>Scri<g ref="char:EOLhyphen"/>pture: Sh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> told us, that <hi>eternall life was not to be found in the Scriptures:</hi> whereas, the <hi>Apoſtle</hi> ſaith <hi>expreſly,</hi> that the <hi>holy Scriptures are able to make wiſe unto ſalvation.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <p>There is <hi>one lie</hi> already: Didſt not thou ſay, thou wouldſt ſpeak <hi>but one</hi> word? and haſt thou ſaid <hi>but one</hi> word? I call the people to <hi>witneſs.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I ſaid, I had <hi>one</hi> word to ſay to you: I can eaſily inſtance
+<pb n="2" facs="tcp:168419:5"/> the <hi>like</hi> expreſſion in <hi>Scripture:</hi> however, I hope, I have <note place="margin">
+                           <hi>A w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rd of Ex<g ref="char:EOLhyphen"/>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rtation.</hi> Acts 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 15.</note> 
+                        <hi>learned</hi> of <hi>him,</hi> who <hi>when he was reviled, reviled not again.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>The man Quak.</speaker>
+                     <p>Let <hi>that</hi> paſs, the <hi>Scripture</hi> ſaith the <hi>ſame</hi> that <hi>ſhe</hi> did.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Doth <hi>any</hi> Scripture affirm, that we cannot <hi>finde eternall life in Scripture?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Yea: <hi>That</hi> Scripture, which ſhe intended, as I ſhall ſhew thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Pray, Good people obſerve what he undertakes to prove, <hi>viz.</hi> that the <hi>Scripture</hi> ſaith, <hi>we cannot finde etenall life in Scripture.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>'Tis in <hi>Joh.</hi> 5. <hi>Search the Scriptures, for in them ye think to have eternall life:</hi> Chriſt doth not ſay that ye <hi>ſhall</hi> have eter<g ref="char:EOLhyphen"/>nall life therein, but ye <hi>think,</hi> &amp;c.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Pray obſerve, is here any <hi>ſuch</hi> thing as he <hi>undertook</hi> to <hi>prove?</hi> doth <hi>this</hi> Scripture ſay, we <hi>cannot finde</hi> eternall life in Scripture? it ſaith indeed ye <hi>think</hi> ye <hi>have</hi> eternall life in Scripture, but is that, ye <hi>cannot finde eternall life in Scri<g ref="char:EOLhyphen"/>pture?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>But the <hi>Scripture</hi> ſaith, <hi>He that hath the Son hath life,</hi> not he that hath the <hi>Scriptures. Ye will not come to me that ye may have life.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>True: but this <hi>Son</hi> in whom eternall life is, is <hi>alone</hi> to be found in <hi>Scriptures,</hi> as the next words affirm, <hi>they are they which teſtifie of me,</hi> therefore, eternall life <hi>is</hi> to be <hi>found</hi> in <hi>Scripture;</hi> and thus <hi>your own</hi> text overthrowes you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>But theſe had the <hi>Scripture,</hi> and yet they did not come to Chriſt that they might have <hi>life,</hi> they were without <hi>life,</hi> though they had the <hi>Scriptures.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>But theſe <hi>Scriptures</hi> continue and <hi>reveal</hi> this Chriſt, in <hi>whom</hi> alone is eternall <hi>life;</hi> and therefore, could they but have <hi>ſearched</hi> the <hi>Scriptures</hi> untill they had found <hi>Christ</hi> therein, they would certainly have <hi>found</hi> eternall <hi>life</hi> there<g ref="char:EOLhyphen"/>in. Here are in the text two <hi>propoſitions,</hi> and an <hi>exhortation</hi> grounded thereupon. 1. In the Scripturess ye <hi>think</hi> ye have eternall <hi>life.</hi> 2. And (as if he had ſaid ye do not think amiſs, for) <hi>they are they which teſtifie of me.</hi> 3. Hereupon, our Saviour <hi>grounds</hi> and ſtrengthens his <hi>exhortation; Search the Scriptures.</hi> Why? Becauſe ye <hi>think</hi> ye have eternall <hi>life</hi>
+                        <pb n="3" facs="tcp:168419:5"/> in <hi>Scripture,</hi> and they do indeed <hi>teſtifie</hi> of me, in whom alone is this eternall <hi>life;</hi> therefore eternall life, <hi>viz.</hi> in <hi>Chriſt,</hi> may be <hi>found</hi> in <hi>Scripture.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <p>Can the <hi>letter</hi> of Scripture <hi>alone</hi> give <hi>life?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>The <hi>Scripture</hi> is able as a <hi>means,</hi> though <hi>Chriſt</hi> alone be able as the <hi>principall</hi> cauſe, to make <hi>wiſe unto ſalvation.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>'Tis the <hi>man of God</hi> wiſe unto ſalvation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>There are two truths in the words. 1. The Scriptures are able <hi>to make wiſe</hi> unto ſalvation. 2. They are <hi>even</hi> able to make the <hi>man of God</hi> wiſe unto ſalvation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>The Company.</speaker>
+                     <p>Come, <hi>leave</hi> this: here is an end of <hi>this.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I ſhall now expect ſatisfaction from you (ſpeaking to the <hi>man-Quaker)</hi> for I have many things to charge you with, out of your <hi>own</hi> diſcourſe. But for our clearer proceſs, I deſire to know firſt, what ſhall be <hi>Judg</hi> betwixt us, whether the <hi>Scripture,</hi> or not?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Yea, I am contented, that the <hi>Scriptures,</hi> as <hi>thou</hi> calleſt them, be our <hi>Rule.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I would ask but one thing more:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Nay, Have I not anſwered <hi>thy</hi> queſtion, now thou ſhalt anſwer me <hi>one</hi> queſtion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>What</hi> is it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Whether is that the <hi>Goſpel-miniſtry that preacheth for hire?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Have but a little <hi>patience</hi> and this will have its <hi>due</hi> place: my other <hi>queſtion</hi> is but in <hi>order</hi> to our clearer proceeding alſo.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Nay but I have anſwered thee <hi>one</hi> queſtion already.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>One</hi> word will anſwer <hi>this</hi> alſo.</p>
+                  </sp>
+                  <sp>
+                     <speaker>The Company.</speaker>
+                     <p>Let him ſpeak.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>My <hi>ſecond</hi> demand then is this, Whether the <hi>Scripture</hi> ſhall be our Rule in the <hi>expreſs</hi> letter of it, or whether we may draw any <hi>conſequence</hi> from it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>I'le have none of thy <hi>meanings</hi> or conceivings; the very <hi>letter</hi> of the Scripture ſhall <hi>judg</hi> betwixt us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I am contented then that it ſhould be ſo.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>But now anſwer <hi>thou</hi> my queſtion: Is that a <hi>lawfull</hi> Mini<g ref="char:EOLhyphen"/>ſtry that preacheth <hi>for hire,</hi> or not?</p>
+                  </sp>
+                  <pb n="4" facs="tcp:168419:6"/>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Sir, I expect that you prove from Scripture, what you have <hi>delivered</hi> to us, firſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Nay, now I have anſwered thee <hi>two</hi> queſtions, wilt not thou anſwer me <hi>one?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Yes, I will anſwer it, it will come in its courſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi> 
+                        <hi>Tripe.</hi>
+                     </speaker>
+                     <p>Then let M. <hi>Fullwood</hi> put <hi>one</hi> thing to you firſt, which you delivered to us, and do you anſwer to <hi>that,</hi> and then let him anſwer <hi>this</hi> queſtion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I am contented.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Thou haſt a <hi>writing</hi> in thy pocket (he ſaw M. <hi>Fullwood</hi> take <hi>Notes</hi> of his diſcourſe) give me thy <hi>writing,</hi> and thou ſhalt be <hi>anſwered</hi> in writing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>No</hi> Sir, then for ought I know, ſome <hi>Jeſuit</hi> may anſwer it, and not <hi>you.</hi> I have <hi>you</hi> here <hi>now,</hi> and expect, that you <hi>anſwer for your ſelf.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>What, thou afraid of <hi>Jeſuit</hi> then?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>You ſhall find, through Gods aſſiſtance, that I am not afraid of you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <p>Doeſt know the voice of a <hi>Jeſuit,</hi> when thou <hi>heareſt</hi> him? if <hi>not,</hi> thou art a <hi>falſe prophet,</hi> for the <hi>true</hi> Prophet, <hi>knows</hi> the voice of a <hi>ſtranger.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Prove that, good <hi>woman.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <p>So I will. The Scriptures ſay, a <hi>ſtranger</hi> will they not <hi>follow,</hi> for they know not the <hi>voice</hi> of a ſtranger.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Well proved: therefore <hi>they do</hi> know the <hi>voice of a ſtranger.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <p>But doeſt thou think that there is ere a <hi>Jeſuit</hi> here?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I am more charitable: Yet more certain I am, that the <hi>Pa<g ref="char:EOLhyphen"/>paſts</hi> give you their <hi>doctrine,</hi> and ſend <hi>you</hi> abroad to <hi>deli<g ref="char:EOLhyphen"/>ver</hi> it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Man Quak.</speaker>
+                     <p>So then, thou doeſt not think we are <hi>Papiſts.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>No truly: But I beleeve you are <hi>deluded</hi> by <hi>them,</hi> and uſed to manage their deſparate and helliſh <hi>deſigns</hi>
+                     </p>
+                     <p>But let me proceed to demand of you ſatisfaction in <hi>one</hi> thing, ſeeing my preſent liberty goeth no farther: 'tis this, Pray how do you prove that the Miniſtry of <hi>England preach<g ref="char:EOLhyphen"/>eth another Goſpel,</hi> than that which <hi>Paul</hi> preached; for that was one of the <hi>marks</hi> of the <hi>falſe</hi> prophets, as you charge
+<pb n="5" facs="tcp:168419:6"/> the <hi>Miniſtry</hi> of <hi>England</hi> to be; and which, I am here to challenge you to make good. <hi>viz.</hi> that <hi>we</hi> preach <hi>another Go<g ref="char:EOLhyphen"/>spel</hi> than that which <hi>Paul</hi> preached.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Who ſaid thou waſt a <hi>falſe</hi> prophet? thou applieſt it to thy ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Then am I a <hi>falſe</hi> prophet, or not?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>I did not ſay thou waſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>But did not you mean, the <hi>Miniſtry</hi> of <hi>England,</hi> in your <hi>marks</hi> of <hi>falſe</hi> prophets?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quae.</speaker>
+                     <p>I own a <hi>Miniſtry,</hi> I own a Miniſtry in <hi>England,</hi> for all thou ſaiſt I deny it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>One of the Company.</speaker>
+                     <p>We do all underſtand, that by <hi>falſe</hi> prophets, he means the <hi>publick Miniſtry.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I challenge him then to prove, if he can, that <hi>we</hi> preach <hi>a<g ref="char:EOLhyphen"/>nother Gospel</hi> than that which <hi>Paul</hi> preached.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>So I will: <hi>Paul</hi> had <hi>his</hi> Goſpel, not <hi>of man,</hi> nor <hi>by man,</hi> but from <hi>God;</hi> but thou haſt thy Goſpel by <hi>man.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>We attain to the Goſpel <hi>another way</hi> than <hi>Paul</hi> did; there<g ref="char:EOLhyphen"/>fore <hi>our</hi> Goſpel is <hi>another Goſpel: this</hi> I utterly deny: prove this if you can, that our <hi>different manner</hi> of receiving the <hi>Goſpel,</hi> doth render it <hi>another Goſpel.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Doth not <hi>Paul</hi> ſay, that he was an Apoſtle not of <hi>man,</hi> nor by <hi>man,</hi> but by the <hi>revelation</hi> of Chriſt Jeſus? and then tells us, if any man preach <hi>another Gospel,</hi> &amp;c.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>But prove, if you can, that the <hi>manner</hi> of receiving, did thus make it <hi>another</hi> Goſpel.</p>
+                     <p>Yea; <hi>good people,</hi> mark: for in this, <hi>his own</hi> text, his argu<g ref="char:EOLhyphen"/>ment is utterly ruined. <hi>Gal.</hi> 1. 8, 9. Though an <hi>Angel</hi> from heaven, preach any <hi>other</hi> Goſpel than that which <hi>I have preached,</hi> or than that, which you <hi>have received,</hi> let him be accurſed.</p>
+                     <p>Obſerve, 'tis the <hi>ſame</hi> Goſpel that <hi>Paul preached,</hi> and that <hi>they received,</hi> by his <hi>preaching.</hi> Yet <hi>Paul,</hi> as was ſaid, received this <hi>ſame</hi> Goſpel <hi>immediatly</hi> from <hi>God,</hi> and theſe <hi>Galatians,</hi> from <hi>man,</hi> from <hi>Pauls</hi> preaching: therefore, you may eaſily perceive, that the <hi>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>fferent manner</hi> of giving or receiving the <hi>Goſpel,</hi> doth not make <hi>another</hi> Goſpel: the <hi>ſame</hi> Goſpel is received by them, from <hi>Paul,</hi> which <hi>Paul</hi>
+                        <pb n="6" facs="tcp:168419:7"/> received by the revelation of <hi>Jeſus Chriſt.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>But didſt thou receive the <hi>Goſpel</hi> as <hi>Paul</hi> did?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I receive the Goſpel from <hi>Paul,</hi> as theſe <hi>Galatians</hi> did even from the <hi>ſame</hi> writings of <hi>Paul,</hi> and they received the <hi>ſame</hi> from <hi>Paul</hi> which he received from <hi>God;</hi> and therefore, we receive the <hi>ſame</hi> Goſpel which <hi>Paul</hi> did receive from the hands of <hi>God</hi> himſelf; <hi>which</hi> Goſpel we <hi>preach,</hi> and not <hi>another.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>The Company.</speaker>
+                     <p>This is plain enough: Go on to ſomething elſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>But thou preacheſt for <hi>Hire.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I ſhall anſwer <hi>that</hi> anon: but firſt do you prove that I preach <hi>another</hi> Goſpel than <hi>Paul</hi> preached.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Thou preacheſt for <hi>Hire,</hi> the Prophets propheſie falſly, the Prieſts bear rule by their means: we preach for <hi>nothing.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Come, come, Sir; You have told us, that what you deliver you have by <hi>revelation</hi> from <hi>Heaven;</hi> wherein, I tell you you <hi>blaſpheme</hi> the Lord: <hi>Did</hi> God <hi>ſend</hi> you, with <hi>lies</hi> and <hi>ſlanders;</hi> to rail and reproach, <hi>&amp;c?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak</speaker>
+                     <p>Did I <hi>ſlander</hi> thee: wherein?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>You have ſlandered the <hi>Miniſters</hi> in <hi>many</hi> things: to name but <hi>one:</hi> you have ſaid, to the people, that the <hi>falſe</hi> pro<g ref="char:EOLhyphen"/>phets, meaning us, in the <hi>Miniſtry,</hi> deny the <hi>light that is in all men.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Doeſt not <hi>thou</hi> ſay, that <hi>there is no light in every man?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>No: nor, I beleeve, any <hi>Miniſter</hi> in <hi>England.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>The Company.</speaker>
+                     <p>Then, herein you are <hi>agreed.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>So far we are, yet leſt I ſhould be miſunderſtood; I ſhall ſhew wherein we differ, about this <hi>light</hi> which is in <hi>every</hi> man.</p>
+                     <p>We hold, that this light is not of it ſelf <hi>ſufficient</hi> to lead men to <hi>ſalvation;</hi> you, as I conceive, hold that it is <hi>ſufficient</hi> to ſalvation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Away with thy <hi>meanings</hi> and conceivings, the word of God is not of any <hi>private</hi> interpretation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Stay friend, I have a word of exhortation: Wherefore, according to a paſſage in your diſcourſe, you are <hi>bound</hi> to <hi>hold your peace.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Speak then.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>My <hi>diſcourſe</hi> ſhall be <hi>grounded</hi> upon thoſe known words,
+<pb n="7" facs="tcp:168419:7"/> 
+                        <hi>Joh.</hi> 1. <hi>The true light which enlighteneth every man which cometh into the world.</hi> This <hi>light</hi> is by <hi>ſeverall</hi> parties taken in three <hi>ſeverall</hi> ſenſes; yet it will appear, that in neither of theſe, it is ſufficient to ſalvation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>He is at his <hi>ſenſes</hi> and meanings again.</p>
+                  </sp>
+                  <p>Firſt, <hi>Some,</hi> take this light to be the <hi>relicks</hi> of that <hi>naturall</hi> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                     <hi>knowledg,</hi> which the goodneſs of God, hath left and kept in <hi>man</hi> ſince the <hi>fall.</hi>
+                  </p>
+                  <p>Now, we grant that thus <hi>all men are enlightned;</hi> yet it is very evident, that all men are not <hi>ſavingly</hi> enlightened here<g ref="char:EOLhyphen"/>by: for the <hi>Scripture</hi> witneſſeth, that ſome men have <hi>no ſuch light in them;</hi> namely, ſuch as ſpeak not according to <note place="margin">
+                        <hi>Iſa.</hi> 8. 20.</note> this <hi>law</hi> and teſtimony of the <hi>word</hi> of God: and notwith<g ref="char:EOLhyphen"/>ſtanding this <hi>common</hi> light, the Gentiles <hi>ſate in darkneſs</hi> and in the ſhadow of death.</p>
+                  <p>Secondly, Others may ſuppoſe, that <hi>every</hi> man is enlight<g ref="char:EOLhyphen"/>ened <milestone type="tcpmilestone" unit="unspecified" n="2"/> by Chriſt as Mediatour: that all the light that is in men, was purchaſed for them by the <hi>death</hi> of Chriſt; and is wrought in them by the <hi>common</hi> influence of his <hi>ſpirit</hi> upon the <hi>world:</hi> and thus, they ſay, <hi>Chriſt enlighteneth every man that cometh into the world.</hi>
+                  </p>
+                  <p>Now, ſhould we admit this <hi>ſenſe</hi> of the words, yet <hi>this</hi> light, as it is in every man, will be found in Scripture to be onely <hi>common</hi> and not <hi>ſaving,</hi> or not ſufficient to ſalvation: for yet notwithſtanding, the <hi>purchaſe</hi> and <hi>coming</hi> of Chriſt, the <hi>Gentiles</hi> have their <hi>underſtandings darkned,</hi> Eph. 4.</p>
+                  <p>And though it ſhould be granted, that this <hi>common</hi> light doth <hi>convince men of ſin,</hi> yet it doth not convince men of <hi>righteouſneſs</hi> and <hi>judgment:</hi> and therefore it is <hi>ſufficient</hi> to leave men <hi>inexcuſable,</hi> but it is not ſufficient to <hi>lead</hi> them to <hi>ſalvation.</hi>
+                  </p>
+                  <p>Further, Though it ſhould be granted, that <hi>this</hi> light might be called the <hi>Spirit</hi> of Chriſt, if it be the <hi>effect</hi> thereof: yet it is ſtill <hi>denied,</hi> that this <hi>operation</hi> of the <hi>ſpirit</hi> which is <hi>common</hi> to all, is ſufficient to <hi>ſalvation:</hi> not but that the <hi>ſame</hi> ſpirit is ſufficient, but yet this <hi>operation</hi> of the ſpirit to <hi>con<g ref="char:EOLhyphen"/>vince of ſin,</hi> is not ſufficient.</p>
+                  <p>3. Laſtly, Others do interpret <hi>this enlightning</hi> in the text, <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <pb n="8" facs="tcp:168419:8"/> to be the <hi>means</hi> of enlightning; namely the <hi>Goſpel-dispenſa<g ref="char:EOLhyphen"/>tion;</hi> which, the coming of Chriſt, brought more <hi>eminently</hi> and <hi>univerſally</hi> into the world, he being the firſt <hi>preacher of the Goſpel</hi> in this ſenſe. <note place="margin">
+                        <hi>Heb.</hi> 2. 3.</note>
+                  </p>
+                  <p>
+                     <hi>Here</hi> I pitch; for thus, there is a light ſet upon <hi>an hill,</hi> ſhining forth and offering it ſelf to <hi>enlighten every</hi> man that comes into the world; and the onely <hi>means</hi> of enlightening <hi>all</hi> that <hi>are</hi> enlightned to <hi>ſalvation</hi> in the world. <hi>Paralell</hi> with that known place; The grace which hath <hi>appeared</hi> unto <hi>all</hi> men, <hi>teaching them,</hi> not that all are <hi>effectually taught</hi> thereby; yet it is <hi>ſtill</hi> teaching them, as a <hi>means,</hi> i. e. offer<g ref="char:EOLhyphen"/>ing to teach them the way to ſalvation; whereby, Chriſt in<g ref="char:EOLhyphen"/>deed hath made a <hi>way,</hi> and fixed a <hi>means,</hi> which is ſufficient as a <hi>means,</hi> to enlighten every man that cometh into the world: and thus he may be ſaid to enlighten every man that cometh into the world.</p>
+                  <p>Now the text taken in <hi>this</hi> ſenſe, 'tis evident, that all are not <hi>effectually</hi> enlightened hereby; all do not em<g ref="char:EOLhyphen"/>brace and poſſeſſe this light; all do not receive it, and ſee in it, or yeeld themſelves to be ſavingly enlightened by it: the very text tells us, that the light <hi>ſhined in darkneſs</hi> and the <hi>darkneſs comprehended it</hi> not: to ſome the Goſpel is hid, and Chriſt is not in reprobates. <note place="margin">
+                        <hi>Joh.</hi> 1. 2 <hi>Cor.</hi> 4. 2 <hi>Cor.</hi> 13.</note>
+                  </p>
+                  <p>Thus, take the text in which <hi>ſenſe</hi> you will, yet we muſt conclude, that that <hi>light</hi> which is in <hi>every</hi> man, is not a <hi>ſa<g ref="char:EOLhyphen"/>ving</hi> light, or ſufficient to ſalvation.</p>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Mark people, He ſaith the <hi>Spirit</hi> doth not convince of righteouſneſs and judgment.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Pray ſpeak the truth: I ſaid if you take the text in the ſe<g ref="char:EOLhyphen"/>cond ſenſe which I do not, yet the Spirit doth not convince all of <hi>righteouſneſs</hi> whom it doth convince of <hi>ſin:</hi> or the ſame Spirit, may be ſaid to convince <hi>ſome</hi> of <hi>ſin</hi> onely, and <hi>others</hi> both of <hi>ſin, righteouſneſs</hi> and <hi>judgment.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Then people he would perſwade us, that the <hi>ſame Spirit,</hi> doth not convince of ſin, righteouſneſs and judgment.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Cannot you ſpeak <hi>two</hi> words <hi>true?</hi> I ſay, the ſame <hi>opera<g ref="char:EOLhyphen"/>tion</hi> of the Spirit doth not convince of <hi>ſin,</hi> and <hi>righteouſneſs,</hi> and <hi>judgment;</hi> ſo that he doth ſometimes <hi>convince</hi> of ſin
+<pb n="9" facs="tcp:168419:8"/> 
+                        <hi>onely,</hi> and ſometimes of <hi>ſin, righteouſneſs</hi> and <hi>judgment.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Turn to the Text: I will ſend the <hi>Comforter,</hi> and he ſhall convince the world of ſin and righteouſneſs and judgment. Again, Even the <hi>Spirit</hi> of truth, whom the world can<g ref="char:EOLhyphen"/>not <hi>receive,</hi> ye know him, and he dwelleth with you, <hi>&amp;c.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>From theſe <hi>two Texts</hi> brought by your ſelf for the con<g ref="char:EOLhyphen"/>trary, I ſhall undertake to prove, above all <hi>contradiction,</hi> that the <hi>Spirit</hi> in this ſaving ſenſe, is not in <hi>every</hi> man; yea, that the Spirit, as a <hi>Comforter, reprover</hi> of ſin, righteouſ<g ref="char:EOLhyphen"/>neſs and judgment, and as a <hi>Spirit</hi> of <hi>truth,</hi> is not in <hi>every</hi> man; which one would think ſhould put an utter <hi>end</hi> unto this <hi>part</hi> of the controverſie. This Text <hi>Joh.</hi> 14. 16, 17. ſaith expreſly, that the <hi>Comforter,</hi> the <hi>Spirit of truth,</hi> which is promiſed to be with and dwell in the <hi>Diſciples,</hi> the <hi>world</hi> cannot <hi>receive,</hi> becauſe it <hi>ſeeth</hi> him not, neither <hi>knoweth</hi> him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Canſt thou prove, that ever <hi>any</hi> one had ſo <hi>much</hi> light as to convince him of <hi>ſinne,</hi> and yet that light was not ſaving?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Yes, that I can. <hi>Judas</hi> was convinced of his great wickedneſs in <hi>betraying</hi> of Chriſt, yet <hi>Judas</hi> had not <hi>ſa<g ref="char:EOLhyphen"/>ving</hi> light.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>But, is not that light which convinceth of ſin, if <hi>improved,</hi> ſufficient to ſalvation?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>Prove</hi> that.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Nay, do thou <hi>prove</hi> it is not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I will: There is no <hi>meanes</hi> ſufficient to ſalvation, but what Scripture aſſerts to be ſo: But now we do not find in Scrip<g ref="char:EOLhyphen"/>ture that the light ſufficient to convince of ſin, if <hi>improved</hi> [by us] is ſufficient to ſalvation; if we do, ſhew it.</p>
+                     <p>
+                        <hi>Some</hi> of the company did not like the <hi>Argument,</hi> but nei<g ref="char:EOLhyphen"/>ther <hi>they,</hi> nor the <hi>Quaker</hi> himſelf, ſaid any thing at all in anſwer thereunto.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>But now anſwer thou my queſtion; Is that a <hi>lawfull Miniſtry that takes Hire for preaching?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>He may be a lawfull Miniſter which takes Hire: prove the contrary, if you can.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>The <hi>falſe</hi> Prophets propheſie for <hi>reward</hi> and preach for <hi>Hire.</hi>
+                     </p>
+                  </sp>
+                  <pb n="10" facs="tcp:168419:9"/>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Pray obſerve, is there no difference, betwixt taking <hi>Hire,</hi> and preaching <hi>meerly</hi> for <hi>Hire,</hi> or <hi>Hires</hi> ſake. The true <hi>Prieſts</hi> in the time of the <hi>Law,</hi> had the Hire of <hi>Tithes</hi> appointed by <hi>God</hi> himſelf: were they therefore <hi>falſe</hi> Pro<g ref="char:EOLhyphen"/>phets?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Doeſt thou take <hi>Hire</hi> or no?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>If I do, I have Scripture for it: the <hi>Labourer</hi> is worthy of his <hi>Hire.</hi> However you are to prove that I preach for <hi>Hire,</hi> or meerly for the ſake of Hire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>See, he hath <hi>acknowledged</hi> himſelf to be a <hi>Hireling,</hi> and that he preacheth for <hi>Hire:</hi> therefore he is a <hi>falſe</hi> Pro<g ref="char:EOLhyphen"/>phet, <hi>&amp;c.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Did you come from God with theſe ſlanders? I ſay, I am no <hi>Hireling:</hi> I ſay, I do not preach for <hi>Hire,</hi> though I have a <hi>maintenance</hi> in liew of preaching.</p>
+                     <p>Good people, you ſee I am enforced unto it: pray give me leave to <hi>magnifie my Office</hi> a little, and I ſhall eaſily <hi>prove</hi> that I am no <hi>Hireling.</hi>
+                     </p>
+                     <p>A Hireling is one that <hi>works</hi> meerly for his <hi>wages,</hi> and doth no <hi>more</hi> work than he is <hi>hired to do;</hi> What ſay you, is he not?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Yea.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Then I ſhall prove I am no <hi>Hireling.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Doeſt thou do <hi>more</hi> work then thou art <hi>hired to do?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Yes, I do: Beſides my preaching twice every Lords day, which is all I am bound [by man] unto; I <hi>Catechize:</hi> I <hi>expound</hi> upon ſome part of Scripture: I deſire <hi>particular conference</hi> with my people, for their <hi>inſtruction</hi> in order to the <hi>Sacrament:</hi> I viſit the ſick: I preach my turn at ſome Lectures; And laſtly, I have begun, to <hi>go and teach from houſe to houſe;</hi> which I intend, through the Lords aſſiſtance to go through withall. And all this is more than I have Maintenance from man for.</p>
+                     <p>Yea, you are all my witneſſes this day, that I am <hi>here,</hi> 
+                        <note place="margin">Hun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing the Wolfe is not flying from him, as the Hireling doth. <bibl>Joh. 50.</bibl>
+                        </note> doing more then I am bound to do: or can expect any <hi>re<g ref="char:EOLhyphen"/>ward</hi> from <hi>man,</hi> for. Ye all know, I might now have been quiet in my <hi>ſtudy</hi> at home; and that I could likely expect no<g ref="char:EOLhyphen"/>thing here, but what <hi>you</hi> ſee I <hi>here</hi> find, <hi>trouble, rayling,</hi>
+                        <pb n="11" facs="tcp:168419:9"/> and <hi>reviling,</hi> for this labour of my <hi>love</hi> to the <hi>ſouls</hi> of my <hi>poor</hi> people; that if poſſible, I might ſave them out of the hands of ſuch <hi>deceivers</hi> and <hi>ſeducers.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Then thou acknowledgeſt, thou preacheſt <hi>twice</hi> a day for <hi>Hire.</hi> Behold people; then he is ſo far an <hi>Hireling:</hi> onely he hath ſaid all this, that you might think you are be<g ref="char:EOLhyphen"/>holding to him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I am yet no <hi>Hireling:</hi> prove if you can, that I preach twice a day meerly for my maintenance; though I am indeed thereby oblged thereunto. I preach for the <hi>glory</hi> of God and my peoples <hi>ſalvation.</hi> You cannot ſay, I preach for Hire, unleſs you could ſee my <hi>heart,</hi> without uncharitable<g ref="char:EOLhyphen"/>neſs and bearing falſe witneſs againſt me.</p>
+                     <p>Beſides, I ſeriouſly profeſs in the <hi>preſence</hi> of <hi>God,</hi> and before you all, that as I do more work than man can re<g ref="char:EOLhyphen"/>quire: ſo had I no <hi>reward</hi> from <hi>man</hi> at all, yet I would preach; I hope, ſo long as I have a tongue to ſpeak.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>O people, pray <hi>try</hi> him: ſee whether he will preach for nothing; my advice to you all, pray <hi>try</hi> him; pay him no more <hi>Tithes</hi> henceforward; he will preach with<g ref="char:EOLhyphen"/>out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>However, good people, pray take <hi>notice</hi> that he giveth but the <hi>Devils counſell;</hi> he perſwades you to <hi>tempt</hi> me to <hi>ſin,</hi> and to leave off preaching; eſpecially conſidering, you cannot thus <hi>try</hi> me, but you muſt withhold what is my <hi>due</hi> by <hi>Law,</hi> and ſo <hi>ſin</hi> your ſelves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Haſt not thou <hi>covenanted</hi> to preach twice a day?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>What if I have? It doth not follow that I preach meerly for that, which I have <hi>covenanted</hi> for. But indeed, I have not ſo <hi>covenanted.</hi> When I came unto this place, I did neither <hi>covenant</hi> to my people <hi>what to do,</hi> nor they with me, <hi>what to give;</hi> in which thing, let my <hi>Congregation</hi> be my <hi>witneſs:</hi> indeed my maintenance is given me by <hi>Law,</hi> 
+                        <note n="*" place="margin">And by the State.</note> not by my <hi>people.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>But prove thy ſelf no <hi>falſe</hi> Prophet: prove thy ſelf a <hi>lawfull</hi> Miniſter, a <hi>true</hi> Prophet: prove this if thou <hi>canſt.</hi>
+                     </p>
+                  </sp>
+                  <pb n="12" facs="tcp:168419:10"/>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>This</hi> is ſomewhat <hi>unreaſonable:</hi> however, I will follow you any whither. Thus I prove it.</p>
+                     <p>He is a <hi>true</hi> Prophet that preacheth <hi>true</hi> and ſound <hi>Doctrine:</hi> is he not? what ſay you to this?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Yea, he is.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Then I am a <hi>true</hi> Prophet: for, I preach <hi>true</hi> and ſound <hi>Doctrine;</hi> charge me with <hi>falſe</hi> Doctrine if you can.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Thou takeſt <hi>Hire:</hi> therefore thy Doctrine is <hi>falſe:</hi> thou art a falſe Prophet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Alas man, this is to find fault with my <hi>wages,</hi> not with my <hi>work;</hi> charge me with <hi>falſe</hi> Doctrine if you dare.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Thou takeſt <hi>Tithes,</hi> thou haſt acknowledged thy ſelf a <hi>Hireling,</hi> thou abideſt not in the <hi>Doctrine of Chriſt,</hi> &amp;c.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Come, come, Sir, all the Company ſeeth you <hi>ſhift</hi> and <hi>flinch;</hi> charge me with <hi>falſe</hi> Doctrine, in ſome particular, or acknowledge me a true Prophet according to your own Doctrine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Do I <hi>flinch?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Do you not? pray obſerve; either your <hi>Doctrine</hi> is the <hi>ſame with ours:</hi> or elſe it <hi>differs</hi> from ours; if your <hi>Doctrine</hi> be the ſame with ours: why do you <hi>runne up and down</hi> thus, and tell the people <hi>we</hi> are <hi>deceivers</hi> and falſe <hi>Prophets,</hi> when as you acknowledge, thoſe that preach <hi>true Doctrine</hi> are true Prophets? Again, if <hi>your</hi> Doctrine do indeed, <hi>dif<g ref="char:EOLhyphen"/>fer</hi> from <hi>ours,</hi> why are you thus aſhamed to <hi>own</hi> it and bring it to <hi>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>yal?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <p>Do we call thee <hi>deceiver</hi> or falſe Prophet?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Set down wherein <hi>your Doctrine differs</hi> from <hi>ours,</hi> if you <hi>dare;</hi> then, I will venture to prove <hi>your</hi> Doctrine, to be <hi>popery</hi> or <hi>worſe.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Our Doctrine <hi>Popery?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Good people, pray obſerve me; I ſay, let <hi>them</hi> but own their <hi>own opinions</hi> as diſtinct from our <hi>Doctrine:</hi> and I do here engage unto you, to bring <hi>Popiſh Books</hi> with me, at the next meeting, which ſhall be, when you your ſelves ſhall <hi>appoint;</hi> and <hi>therein</hi> I will ſhew you, <hi>thoſe</hi> opinions to
+<pb n="13" facs="tcp:168419:10"/> be <hi>popery,</hi> which you ſhall own <hi>contrary</hi> to us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>What's this?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Sir, I ſay it again: I am here to <hi>undertake</hi> it; accept of the <hi>challenge</hi> if you dare.</p>
+                  </sp>
+                  <sp>
+                     <speaker>One of the Company.</speaker>
+                     <p>
+                        <hi>Bellarmine</hi> holds that <hi>there is a God:</hi> is that therefore <hi>pope<g ref="char:EOLhyphen"/>ry;</hi> the <hi>Papiſts</hi> may hold ſome <hi>truths.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Pray obſerve, I <hi>ſpeak</hi> of <hi>ſuch points,</hi> as the <hi>reformed</hi> Churches differ from the <hi>Papiſts</hi> about; now that's <hi>Popery:</hi> and not the things, wherein we and they <hi>agree;</hi> and now in thoſe very things, wherein the <hi>Papiſt</hi> differs from <hi>us,</hi> you will be found to differ from <hi>us,</hi> and <hi>joyn</hi> with <hi>popery:</hi> dare you ſpeak <hi>out?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>One of the Company.</speaker>
+                     <p>But is that a ſure <hi>Rule,</hi> that becauſe the <hi>Papiſt</hi> differs from us in <hi>ſuch</hi> a point; therefore, what <hi>they</hi> hold is <hi>errour?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>An excellent <hi>principle</hi> for <hi>popery</hi> to <hi>begin</hi> withall. Though this happily may not rigidly hold, in ſome ſmall <hi>circum<g ref="char:EOLhyphen"/>ſtantiall</hi> difference; yet take heed of ſiding with <hi>Papiſts</hi> in the moſt <hi>Fundamentall</hi> points of difference betwixt us; I am ſure that is <hi>popery.</hi> And again, in ſuch <hi>ſubſtantiall</hi> points, you would be found differing with us, and <hi>ſiding</hi> with <hi>Papiſts:</hi> if you durſt ſtand to the <hi>tryal.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>But thy Doctrine is <hi>falſe:</hi> thou takeſt <hi>Hire:</hi> thou art a <hi>falſe Prophet:</hi> a <hi>Hireling;</hi> for thou takeſt <hi>Tithes.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>Tythes</hi> are <hi>lawfull,</hi> though I do <hi>not</hi> take <hi>Tythes.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi> 
+                        <hi>P.</hi>
+                     </speaker>
+                     <p>You do take <hi>Tythes.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>No Sir under favour, I never took <hi>Tythes</hi> ſince I came to this <hi>place.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi> 
+                        <hi>P.</hi>
+                     </speaker>
+                     <p>You take in liew of <hi>Tythes.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I. <hi>do,</hi> and that <hi>lawfully.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Prove that to take <hi>Tythes</hi> in the time of the <hi>Goſpel</hi> is <hi>law<g ref="char:EOLhyphen"/>full.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>Tythes</hi> are lawfull, becauſe not forbidden: yea, they ſeem to be incouraged by Chriſt himſelf in the <hi>Goſpel:</hi> ye <hi>Tythe,</hi> Mint, <hi>&amp;c.</hi> and ye <hi>do well;</hi> therefore we <hi>do</hi> not <hi>ill</hi> to take them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi> 
+                        <hi>Tripe.</hi>
+                     </speaker>
+                     <p>But that was before the <hi>Law</hi> was <hi>aboliſhed.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>When was the <hi>Law</hi> aboliſhed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi> 
+                        <hi>Har.</hi>
+                     </speaker>
+                     <p>All the Divines in the world, acknowledge that the <hi>Law</hi>
+                        <pb n="14" facs="tcp:168419:11"/> was aboliſhed at Chriſts death: yea, I am miſtaken, if I have not heard you ſay ſo <hi>your ſelf.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>However, if this incouragement of Chriſt for <hi>Tythes</hi> be taken off: it <hi>reſts</hi> to be proved, that the <hi>onely Law</hi> for <hi>Tythes,</hi> was aboliſhed in <hi>that Law</hi> which was aboliſhed at Chriſts <hi>death.</hi>
+                     </p>
+                     <p>Here, the <hi>Quaker</hi> was at a <hi>ſtand,</hi> and one of his <hi>Brethren</hi> was very earneſt with him, to make him turn to the <hi>ſe<g ref="char:EOLhyphen"/>venth</hi> of the <hi>Hebrews:</hi> which, with much a do, at length, <hi>he did.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>'Tis aboliſhed <hi>Heb.</hi> 7. 12 For, <hi>the Prieſthood being changed the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e is made of neceſſity a change of the Law.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>This</hi> Law and Prieſthood is the <hi>Levitical Law</hi> and <hi>Prieſt<g ref="char:EOLhyphen"/>hood:</hi> as <hi>verſ.</hi> 11. Now you muſt prove, that <hi>Tythes</hi> was payable onely according to the <hi>Levitical Law,</hi> and onely unto the Levitical <hi>Prieſthood;</hi> which, I think is too hard a task.</p>
+                     <p>I have two things wherewith to defend our taking of. Tythes againſt this verſe; <hi>one</hi> of which, I am <hi>ſure</hi> will hold. The firſt is, That we claime not <hi>Tythes</hi> by the <hi>Law</hi> of <hi>God,</hi> as it were commanded there; but by the <hi>Law</hi> of the <hi>Land:</hi> whereby we have as clear a <hi>title</hi> to our <hi>Tythes,</hi> as that <hi>Gentleman</hi> hath to his <hi>eſtate.</hi> 2. The <hi>ſecond</hi> thing that I have to ſay, is, That you cannot prove by <hi>this</hi> Text, that the <hi>onely Law</hi> for <hi>Tythes,</hi> in the Word of God is aboliſhed.</p>
+                     <p>This <hi>very</hi> Chapter tels us, that <hi>Tythes</hi> were paid by <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> (430 years) before <hi>this Law,</hi> which was now aboliſh<g ref="char:EOLhyphen"/>ed: and that Chriſt, <hi>whoſe deſcent is not reckoned from Levi,</hi> is a <hi>Prieſthood for ever</hi> after the order of <hi>Melchizedeck,</hi> who received <hi>Tythes,</hi> not by <hi>this</hi> Law; and who <hi>now li<g ref="char:EOLhyphen"/>veth (verſ.</hi> 9.) to receive <hi>Tythes</hi> ſtill, in Chriſt: though thoſe that <hi>receive Tythes</hi> in <hi>Aarons</hi> order, and the <hi>Law</hi> by which they did ſo receive Tythes, are <hi>both dead.</hi>
+                     </p>
+                     <p>So, that <hi>Tythes</hi> ſeemeth to be Chriſts <hi>wages;</hi> then, thoſe that ſtand in <hi>Chriſts ſtead,</hi> and do <hi>part</hi> of Chriſts <hi>work,</hi> as <hi>we</hi> do; why may they not claim part of Chriſts <hi>wages,</hi> viz. <hi>Tythes?</hi>
+                     </p>
+                     <pb n="15" facs="tcp:168419:11"/>
+                     <p> But, as before, I ingeniouſly confeſs, that I rather chooſe to make <hi>my claim</hi> thereto, by the <hi>Law</hi> of the <hi>Land</hi> which is without <hi>that</hi> controverſie, wherein the <hi>Law</hi> of <hi>God</hi> (com<g ref="char:EOLhyphen"/>manding this) is, indeed <hi>involved.</hi>
+                     </p>
+                     <p>Here alſo the <hi>Quaker</hi> had nothing to ſay; but a Brother of his, put him <hi>in mind</hi> of the beginning of <hi>Heb.</hi> 8. this is the ſumme: which he read, crying out, this is the ſumme: without replying any thing in <hi>particular</hi> to what had been ſaid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>One of the Company.</speaker>
+                     <p>I confeſs, I am not ſatisfied with what you have ſaid about <hi>Tythes:</hi> me thinks, it is the <hi>worſt money</hi> I lay out all the year.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>It may be ſo: but what have you to ſay againſt it? You are I think a <hi>Neighbour.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>The ſame.</speaker>
+                     <p>I live within the juriſdiction of <hi>Malborough.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Pray come to me <hi>another</hi> time, and I will labour the beſt I can, in a <hi>private</hi> way, to give <hi>you</hi> ſatisfaction: onely re<g ref="char:EOLhyphen"/>member what I ſaid: I claim not <hi>Tythes</hi> by a <hi>Divine,</hi> but by a <hi>humane</hi> Law; that is, the Law of the <hi>Land.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Some of the Company.</speaker>
+                     <p>We grant you have a <hi>right</hi> unto them, by the <hi>Law</hi> of the Land: and ſo farre we grant <hi>Tythes</hi> to be <hi>lawfull.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Another.</speaker>
+                     <p>But 'tis not <hi>Tythes,</hi> but the <hi>tenth of the ſpoyl</hi> that <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> paid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>I, thou muſt go look for thy <hi>Tythes</hi> of the <hi>Souldiers.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>'Tis called <hi>Tythes</hi> expreſly; <hi>paid Tythes in Abraham.</hi> verſ. 9.</p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi> 
+                        <hi>John Tripe.</hi>
+                     </speaker>
+                     <p>'Tis plain, they are called <hi>Tythes</hi> there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Another.</speaker>
+                     <p>But 'tis not <hi>commanded,</hi> he freely <hi>gave</hi> it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>The Text ſaith, he <hi>paid Tythes:</hi> and if it be granted me that <hi>Tythes</hi> are lawfull to be <hi>paid</hi> in the <hi>time</hi> of the <hi>Goſpel;</hi> I deſire <hi>no more.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>The <hi>Quaker</hi> was ſilent here a while. But at length brake out as he uſed to do, thou haſt acknowledged thy ſelf a <hi>Hireling:</hi> and that he takes <hi>Tythes:</hi> and therefore he is a <hi>falſe</hi> Prophet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Sir, you <hi>dare</hi> not look the <hi>Scripture</hi> in the <hi>face:</hi> go a<g ref="char:EOLhyphen"/>bout to prove what you ſay from <hi>Scripture</hi> if you dare. I have <hi>proved</hi> that to take <hi>Tythes,</hi> is not <hi>unlawfull:</hi> either
+<pb n="16" facs="tcp:168419:12"/> by the Law of <hi>God</hi> or <hi>man.</hi> And again, I ſolemnly pro<g ref="char:EOLhyphen"/>feſs, that if my <hi>lawfull Maintenance</hi> were utterly taken a<g ref="char:EOLhyphen"/>way, yet, I hope, I ſhould <hi>preach</hi> as long as I have a <hi>tongue in my head.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>But thou abideſt not in the <hi>Doctrine</hi> of Chriſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Shew me wherein I fail: I challenge you to ſhew me where<g ref="char:EOLhyphen"/>in, or ſay nothing; I have hitherto <hi>juſtified</hi> my ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Another.</speaker>
+                     <p>Wilt thou <hi>justifie</hi> thy ſelf?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I mean, ſo <hi>far</hi> as you <hi>charged</hi> me, I have <hi>juſtified</hi> my ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>The ſame.</speaker>
+                     <p>But, thou ſaidſt thou hadſt <hi>juſtified</hi> thy ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Alas, let any in the Company ſhew me wherein I do <hi>amiſs,</hi> and I ſhall give him <hi>hearty</hi> thanks: but if you charge me <hi>falſly,</hi> muſt not I <hi>juſtifie,</hi> that is, clear my ſelf?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>He taketh <hi>Hire,</hi> he acknowledgeth himſelf a <hi>Hireling, &amp;c.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Why do you not go about to prove what you ſay?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>The Prophets propheſie <hi>falſly,</hi> and the Prieſts bear rule by their <hi>meanes:</hi> by their great <hi>means</hi> and <hi>riches;</hi> and the people love to have it ſo.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>You ſee, good people, what a <hi>learned Teacher</hi> you have: the <hi>Prieſts</hi> bear rule by their <hi>means,</hi> that is, ſaith he, their <hi>great means</hi> and <hi>riches;</hi> when the <hi>weakeſt</hi> here, I hope knows, that by <hi>their means,</hi> is by their <hi>occaſion.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi>s <hi>Pol.</hi>
+                     </speaker>
+                     <p>Here was <hi>ſilence</hi> for a while; Then M<hi rend="sup">r</hi>s <hi>P.</hi> came in and ſaid to M<hi rend="sup">r</hi> 
+                        <hi>Fullwood,</hi> what canſt thou ſay for <hi>ſinging of Pſalms,</hi> and <hi>ſprinkling</hi> of <hi>Infants?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Yea, what doeſt ſay to <hi>theſe</hi> things?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>This <hi>queſtion</hi> about <hi>Singing of Pſalms,</hi> minds me of a <hi>paſſage</hi> in your diſcourſe, which I challenge you to make good, you ſaid that the <hi>Pſalms</hi> were turned into <hi>Engliſh meeter</hi> by Fidlers. That <hi>Thomas Sternhold</hi> and <hi>John Hop<g ref="char:EOLhyphen"/>kins</hi> were <hi>Fidlers.</hi> Sir, I believe, you are not worthy to wipe off the <hi>duſt</hi> from their <hi>Tombes;</hi> prove them to be <hi>Fidlers;</hi> you have no revelation from Heaven to ſlander the dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>Why were they not the Kings <hi>Fidlers?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>Prove</hi> that they were.</p>
+                  </sp>
+                  <pb n="17" facs="tcp:168419:12"/>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Doth not <hi>Hiſtory</hi> ſay ſo of them?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>What <hi>Hiſtory?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>I <hi>will not</hi> tell now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>You will not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Prove thy <hi>ſprinkling of Infants.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>This is but to delude the people: you know, you deny <hi>all Baptiſm</hi> with <hi>water;</hi> and that you are, as much againſt the <hi>Anabaptiſts,</hi> as againſt us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>However, it's required of thee, that thou prove the <hi>ſprink<g ref="char:EOLhyphen"/>ling Infants.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I never ſaw an <hi>Infant</hi> onely <hi>ſprinkled.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>Whether it be <hi>dipping</hi> or not, prove the <hi>baptizing</hi> them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Though it be very unreaſonable, yet I will follow you. I ſhall prove the <hi>baptizing</hi> of <hi>Infants,</hi> from foure heads; Command: Example: Scripture-grounds: and the Analogy of Baptiſm to Circumciſion.</p>
+                     <p>1 From the Command, <hi>Mat.</hi> 28. I reaſon thus.</p>
+                     <p>We are commanded to <hi>Baptize all Nations;</hi> but Infants are a great part of all <hi>Nations;</hi> therefore we are comman<g ref="char:EOLhyphen"/>ded to baptize Infants: unleſs you can ſhew ſome <hi>other</hi> place of <hi>Scripture</hi> to limit it to <hi>grown perſons;</hi> limit not the holy One of <hi>Iſrael.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>One of the Company.</speaker>
+                     <p>Children are <hi>uncapable</hi> of Baptiſm.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>That which you ſuppoſe, to make them <hi>incapable,</hi> doth not: therefore they are not <hi>uncapable.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>The ſame.</speaker>
+                     <p>What's that?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>
+                        <hi>Faith,</hi> you ſay is required in <hi>Baptiſm,</hi> and that renders <hi>Infants uncapable</hi> thereof; but though faith be required, this doth not render <hi>Infants uncapable</hi> of Baptiſme: for <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> were capable of <hi>Circumciſion:</hi> and yet Circum<g ref="char:EOLhyphen"/>ciſion was a <hi>Signe and a Seal</hi> of the righteouſneſs of <hi>Faith.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>The ſame.</speaker>
+                     <p>Circumciſion was a <hi>Signe,</hi> but no <hi>Seal.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Quak.</speaker>
+                     <p>
+                        <hi>Circumciſion</hi> was no <hi>Seal.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I think, you are not <hi>ſure</hi> of it: wee'l turn to the Text, <hi>Rom.</hi> 4. 11. And he received the <hi>Sign</hi> of Circumciſion, a <hi>Seal</hi> of the righteouſneſs of Faith.</p>
+                  </sp>
+                  <pb n="18" facs="tcp:168419:13"/>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>It ſaith not <hi>Circumciſion</hi> was a <hi>Seal:</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>No, pray lets read the <hi>Text</hi> again: He received the Signe of Circumciſion, a Seal, <hi>&amp;c.</hi> Doth it not plainly ſay, that Circumciſion which was a <hi>Signe,</hi> was a Seal alſo? Who de<g ref="char:EOLhyphen"/>nieth it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Another.</speaker>
+                     <p>But doth <hi>Baptiſme</hi> come in the <hi>room</hi> of <hi>Circumciſion?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Yes: as is evident <hi>Col.</hi> 2. 11, 12. Ye are <hi>circumcized with the circumciſion of Chriſt, buried with him in Baptiſme.</hi> Baptiſme, you ſee, is here called the <hi>Circumciſion of Chriſt,</hi> or the <hi>Chriſtian</hi> Circumciſion: evidently intimating, that <hi>Baptiſme</hi> is come in the ſame place and uſe with <hi>Chriſtians,</hi> which <hi>Circumciſion</hi> had among the Jews.</p>
+                  </sp>
+                  <sp>
+                     <speaker>The ſame.</speaker>
+                     <p>The putting away the filth of the fleſh anſwered to <hi>Cir<g ref="char:EOLhyphen"/>cumciſion.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>True, Circumciſion in the <hi>fleſh</hi> anſwered to two things. 1. The Circumciſion of the heart: This was alſo be<g ref="char:EOLhyphen"/>fore Chriſt came. 2. The Circumciſion of Chriſt, which is Baptiſme of the <hi>fleſh,</hi> as well as the <hi>heart:</hi> as appeares in this Text.</p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi> 
+                        <hi>Tripe.</hi>
+                     </speaker>
+                     <p>Pray why do your people, while you <hi>read</hi> the <hi>Pſalms,</hi> ſit with their <hi>hats on:</hi> and when they <hi>ſing</hi> the ſame <hi>Pſalms,</hi> with their hats <hi>off.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>I conceive (I ſay, I conceive becauſe I would ſpeak the truth) one reaſon hereof is, becauſe while we <hi>read</hi> the Pſalms, they ſuppoſe, <hi>we</hi> are ſpeaking to <hi>them:</hi> and when we all <hi>ſing</hi> together, they ſuppoſe we are <hi>all</hi> ſpeaking <hi>more immediately to God?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi> 
+                        <hi>Tripe.</hi>
+                     </speaker>
+                     <p>But how can you require the people to ſing, when as the <hi>Pſalms</hi> do not agree with their <hi>conditions;</hi> but they ſing <hi>lies to God.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Do they not ſing the <hi>Scriptures:</hi> and are the Scriptures <hi>lies?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>M<hi rend="sup">r</hi> 
+                        <hi>Tripe.</hi>
+                     </speaker>
+                     <p>But what <hi>they</hi> ſing agreeth onely to <hi>Gods people,</hi> and not to <hi>wicked</hi> men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>'Tis their <hi>duty</hi> to <hi>ſing,</hi> and not their <hi>ſin;</hi> 'tis their <hi>ſin</hi> onely, that by their <hi>wickedneſs</hi> they are not <hi>fit</hi> to <hi>ſing.</hi> They are not, we grant, ſuch as their duty requires: but can any be ſo weak to think, that they are diſobliged from
+<pb n="19" facs="tcp:168419:13"/> their <hi>duty</hi> by their <hi>unfitneſs</hi> for it? We require them to do their <hi>duty:</hi> they ſhall anſwer it, if they either <hi>neglect</hi> it, or do it <hi>amiſs.</hi>
+                     </p>
+                     <p>This was the ſubſtance of the debate. There were a few words <hi>paſſed</hi> about [thee and thou] which M<hi rend="sup">r</hi> 
+                        <hi>Fullwood</hi> ſaid might be proved from <hi>Scripture,</hi> to be <hi>ſinfull</hi> language: be<g ref="char:EOLhyphen"/>cauſe the <hi>Scripture</hi> determines the controverſie about <hi>indiffe<g ref="char:EOLhyphen"/>rent</hi> 
+                        <note place="margin">1 <hi>Cor.</hi> 11. 16.</note> things, with an Argument from <hi>Cuſtome.</hi> If any be <hi>contentious, we have no ſuch cuſtome,</hi> nor the Churches of God.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>See, he pleads for <hi>old Cuſtomes.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Sir, What I ſay I bring <hi>Scripture</hi> for; <hi>anſwer</hi> to Scrip<g ref="char:EOLhyphen"/>ture.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>But are theſe words <hi>indifferent?</hi> Is <hi>Scripture-language</hi> in<g ref="char:EOLhyphen"/>different?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>This is but the <hi>tranſlation;</hi> and it was <hi>indifferent</hi> for the <hi>tran<g ref="char:EOLhyphen"/>ſlators,</hi> to have tranſlated it <hi>you,</hi> or <hi>thou;</hi> the original will ſuffer either.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Another.</speaker>
+                     <p>But do not we ſay <hi>thee</hi> to <hi>God?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>Yes: Pray let me take occaſion to mind you when theſe expreſſions [of thee and thou] have their uſe in <hi>Cuſtome;</hi> namely in two caſes. 1. In a way of great <hi>familiarneſs:</hi> as to our very intimates, or thoſe much <hi>below</hi> us. 2. In a way of great <hi>reverence</hi> and <hi>diſtance;</hi> as to <hi>God</hi> and to a <hi>Prince, &amp;c.</hi> But in <hi>neither</hi> of theſe <hi>ſenſes</hi> do you uſe them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Qua.</speaker>
+                     <p>He <hi>dreams.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Full.</speaker>
+                     <p>You anſwer nothing.</p>
+                     <p>There was no more offer'd to be ſaid: but <hi>one</hi> went one way and another another. And M<hi rend="sup">r</hi> 
+                        <hi>Fullwood</hi> having been <hi>ſent for</hi> divers times; he went to the <hi>door,</hi> and there, deſiring the people in a <hi>few words</hi> to take heed of ſuch <hi>ſeducers,</hi> he went <hi>away, many</hi> following him.</p>
+                  </sp>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb n="1" facs="tcp:168419:14"/>
+                  <p>A <hi>Brief</hi> and <hi>Plain</hi> Anſwer TO <hi>JAMES GODFRIE'S</hi> QUERIES, ENTITLED; Some Queries to be anſwered by thee <hi>George Pitt,</hi> who profeſſeſt thy ſelf to be a <hi>Miniſter</hi> of Chriſt, but art found in the ſteps of the <hi>Phariſees,</hi> and haſt not the <hi>Spirit</hi> of Chriſt, therefore the ſpirit of <hi>error.</hi>
+                  </p>
+                  <p>With ſome <hi>Counter-Queries</hi> to be anſwered by <hi>James Godfrey;</hi> thence ariſing.</p>
+                  <p>By <hi>F. F.</hi>
+                  </p>
+                  <q>UPon the <hi>Title</hi> of theſe <hi>Queries,</hi> I demand, How did this <hi>James Godfrey</hi> know, that M<hi rend="sup">r</hi> 
+                     <hi>Pitt</hi> would not anſwer the following <hi>Queries</hi> according to his <hi>own</hi> mind? And whether, ſuppoſing M<hi rend="sup">r</hi> 
+                     <hi>Pitt</hi> ſhould return <hi>ſuch</hi> an anſwer as <hi>James Godfrey</hi> would have him, he be yet poſſeſſed with a <hi>Spirit of error?</hi> Or whether he that <hi>erred</hi> in <hi>raſh Judg<g ref="char:EOLhyphen"/>ment,</hi> did ſo err, by the Spirit of Truth?</q>
+               </div>
+            </front>
+            <body>
+               <div type="answer">
+                  <div n="1" type="part">
+                     <head>The <hi>Quakers</hi> firſt <hi>Query</hi>
+                     </head>
+                     <p>
+                        <hi>Thou that ſaiſt Jeſus Chriſt hath not enlightn'd every man</hi>
+                        <pb n="2" facs="tcp:168419:15"/> 
+                        <hi>which cometh into the world; what are thoſe that have not heard? and can any hear except they be enlightned? and is the Apoſtle or thee to be beleeved, who ſaid they have all heard? anſwer in plain words.</hi>
+                     </p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p>I know <hi>none</hi> that ſpeak (what I ſuppoſe M<hi rend="sup">r</hi> 
+                           <hi>Pitt</hi> is <hi>ſlandered</hi> with) ſo directly againſt the <hi>Scripture,</hi> as to ſay, that <hi>Chriſt</hi> hath not <hi>enlightned every</hi> man that cometh into the world: and whether <hi>all</hi> have <hi>heard</hi> or not, or who thoſe are that have <hi>not heard,</hi> (as the <hi>Apoſtle doth</hi> not, ſo) neither this <hi>James Godfrey,</hi> nor any other man <hi>can</hi> tell: however, let him beleeve the <hi>Apoſtle</hi> before <hi>us,</hi> in what we ſay <hi>contrary</hi> to the <hi>Apoſtle.</hi>
+                        </p>
+                        <p>Yet, he <hi>himſelf</hi> implies, what <hi>we</hi> know <hi>certainly</hi> alſo, that <hi>England hath heard;</hi> and therefore, hath had <hi>Preachers,</hi> law<g ref="char:EOLhyphen"/>fully <hi>ſent,</hi> before ſuch as he is came to <hi>teach</hi> her: for how ſhall they <hi>hear</hi> without a <hi>Preacher,</hi> and how ſhall they <hi>preach</hi> 
+                           <note place="margin">
+                              <hi>Rom.</hi> 10.</note> except they be <hi>ſent?</hi>
+                        </p>
+                     </div>
+                     <div type="section">
+                        <head>
+                           <hi>Counter-Queries</hi> to this <hi>firſt Querie.</hi>
+                        </head>
+                        <list>
+                           <item>1. Which <hi>way</hi> doth Chriſt enlighten <hi>every</hi> man!</item>
+                           <item>2. Whether is <hi>hearing</hi> the <hi>means</hi> of <hi>enlightning,</hi> or <hi>enlight<g ref="char:EOLhyphen"/>ning</hi> the <hi>cauſe</hi> of <hi>hearing?</hi> and which is <hi>firſt?</hi>
+                           </item>
+                           <item>3. Whether Chriſt doth not enlighten <hi>any</hi> but thoſe that <hi>come</hi> into the <hi>world?</hi> and what ſhall we think of thoſe that die in the <hi>womb?</hi>
+                           </item>
+                           <item>4. Whether <hi>men</hi> are enlightned, as <hi>ſoon</hi> as they <hi>come</hi> into the <hi>world?</hi> or when?</item>
+                           <item>5. Whether thoſe that <hi>cannot hear,</hi> be enlightned, or not? what ſhall we think of <hi>deaf</hi> perſons? if they <hi>be enlightned,</hi> are not <hi>more</hi> enlightn'd then do <hi>hear?</hi> if they be <hi>not</hi> elightned, how is <hi>every</hi> man enlightned?</item>
+                           <item>6. Whether Chriſt may be ſaid to <hi>be in all,</hi> becauſe he <hi>en<g ref="char:EOLhyphen"/>lightens all?</hi>
+                           </item>
+                           <item>7. Whether all that are <hi>alive,</hi> came within the <hi>Apoſtle Peters</hi> queſtion, <hi>Have they not heard?</hi>
+                           </item>
+                           <item>8. Where doth the <hi>Apoſtle</hi> ſay, <hi>that all have heard?</hi> anſwer thou in <hi>plain</hi> words.</item>
+                           <pb n="3" facs="tcp:168419:15"/>
+                           <item>9. If all that have <hi>heard</hi> are <hi>enlightned,</hi> whether our people had <hi>not heard,</hi> before <hi>you</hi> came amongſt us? if <hi>not,</hi> then how <hi>had all heard?</hi> and <hi>if,</hi> then whether they were <hi>not enlightned before</hi> you came? and if ſo, what <hi>need had they of you?</hi>
+                           </item>
+                        </list>
+                     </div>
+                  </div>
+                  <div n="2" type="part">
+                     <head>The <hi>Quakers</hi> ſecond Querie.</head>
+                     <p>
+                        <hi>Whether the light that</hi> ſhines <hi>in the</hi> heart, <hi>doth not give the</hi> light <hi>of the</hi> knowledg of Chriſt, <hi>which enlighteneth every man that cometh into the world.</hi>
+                     </p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p>The light of Chriſt (as the <hi>Cauſe) ſhines</hi> in the heart, and gives the <hi>light</hi> of the knowledg of Chriſt, (as the <hi>effect)</hi> to <hi>every</hi> one that is <hi>enlightned</hi> therewith: and this <hi>light</hi> of the knowledg of Chriſt, by the <hi>light</hi> of the glorious Goſpel in our deſpiſed <hi>Miniſtery,</hi> hath <hi>ſhone</hi> into the <hi>hearts</hi> of <hi>many</hi> of our people, before ever you came amongſt them to <hi>eclipſe</hi> and darken it.</p>
+                     </div>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> Counter-Queries <hi>ariſing hence.</hi>
+                        </head>
+                        <list>
+                           <item>1. Whether the light that is in the <hi>heart</hi> of <hi>every</hi> man, ſhine in the <hi>heart</hi> of <hi>every</hi> man? and whether the <hi>underſtandings</hi> of thoſe can be <hi>darkened</hi> in whoſe heart the <hi>light ſhines?</hi>
+                           </item>
+                           <item>2. If ſo, Then how can it be ſaid of any, that there is <hi>no light in them?</hi> or that they ſit in <hi>darkneſs?</hi> or whether is <note place="margin">
+                                 <hi>Eſa.</hi> 8.</note> there any <hi>darkneſs</hi> at all in the <hi>world?</hi> or if there be, whether it be there where the <hi>light ſhines,</hi> in the <hi>hearts</hi> of men or not? or whether <hi>their darkneſs</hi> doth not <hi>comprehend the light,</hi> in whoſe hearts the <hi>light</hi> ſhines?</item>
+                           <item>3. Whether light that <hi>ſhineth</hi> in the heart of every man, doth give the light of the <hi>knowledg of Chriſt</hi> to <hi>every</hi> man <hi>effectually?</hi> and whether <hi>every</hi> man that is in the world hath the <hi>knowledg of Chriſt?</hi>
+                           </item>
+                           <item>4. Whether the light, which <hi>ſhineth</hi> in the heart of every man, is ſufficient to give the light of the knowledg of Chriſt, without the <hi>Scriptures?</hi> if ſo, then what is the <hi>reaſon,</hi> that thoſe that hear not of the <hi>Scriptures,</hi> do not <hi>know Chriſt?</hi>
+                           </item>
+                           <pb n="4" facs="tcp:168419:16"/>
+                           <item>5. Whether the <hi>Scriptures</hi> be not <hi>they</hi> (that is,) only <hi>they that teſtifie of Chriſt?</hi>
+                           </item>
+                        </list>
+                     </div>
+                  </div>
+                  <div n="3" type="part">
+                     <head>The <hi>Quakers</hi> 3<hi rend="sup">d</hi> 
+                        <hi>Querie.</hi>
+                     </head>
+                     <p>
+                        <hi>Is there any know the</hi> Truth, <hi>but they that know</hi> this Chriſt manifeſt in them?</p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p>
+                           <hi>Some</hi> do know the <hi>truth,</hi> that do not know <hi>Chriſt manifeſt in them.</hi> For,</p>
+                        <p n="1">1. Some do know the <hi>truth</hi> that <hi>have</hi> not Chriſt <hi>in them,</hi> and therefore, that do not <hi>know</hi> Chriſt to be <hi>in them,</hi> much leſs, <hi>manifeſt in them.</hi>
+                        </p>
+                        <p>
+                           <hi>Some</hi> do know the <hi>truth</hi> that do not <hi>walk in the truth;</hi> but Chriſt is not <hi>in</hi> thoſe, that are unto every good work <hi>repro<g ref="char:EOLhyphen"/>bate,</hi> and do not <hi>walk in the truth,</hi>
+                        </p>
+                        <p>Thoſe that know their <hi>Maſters will</hi> know the <hi>truth,</hi> but thoſe that <hi>know</hi> their <hi>Maſters will,</hi> may <hi>not do it.</hi>
+                        </p>
+                        <p n="2">2. Some may know the <hi>truth,</hi> and may <hi>have Chriſt in them,</hi> and yet not know <hi>that he is in them.</hi>
+                        </p>
+                        <p>If Chriſt, as you <hi>falſly</hi> conceive, be in <hi>every</hi> man, and ſome men, as this <hi>querie</hi> ſuppoſeth, know not <hi>Chriſt manifeſt in them;</hi> then Chriſt is in <hi>ſome men</hi> that know not Chriſt mani<g ref="char:EOLhyphen"/>feſt in them.</p>
+                        <p>And yet, ſuch may know the <hi>truth,</hi> and beleeve in the <hi>truth</hi> and in <hi>Chriſt himſelf,</hi> and yet not know that Chriſt <hi>is in them,</hi> or that they are <hi>in Chriſt,</hi> the <hi>caſe</hi> of many <hi>doubting</hi> broken hearts.</p>
+                     </div>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> Counter. Queries <hi>hence ariſing.</hi>
+                        </head>
+                        <list>
+                           <item>1. Whether there be <hi>no truth</hi> but <hi>Chriſt?</hi> or whether there be <hi>no truth of Christ,</hi> but Chriſt <hi>manifeſt within us?</hi>
+                           </item>
+                           <item>2. Whether Chriſt <hi>crucified,</hi> or Chriſt <hi>aſcinded,</hi> or Chriſt <hi>interceding</hi> at the Fathers right hand, be not <hi>truths?</hi> or whe<g ref="char:EOLhyphen"/>ther thus, Chriſt be not <hi>without us?</hi>
+                           </item>
+                           <item>3. Or whether Chriſt be a <hi>mediator, advocate</hi> and <hi>ſufferer</hi> for us, <hi>within</hi> us, or as <hi>manifeſt</hi> within us <hi>only?</hi>
+                           </item>
+                           <pb n="5" facs="tcp:168419:16"/>
+                           <item>4. Whether is the <hi>imputed</hi> merit and righteouſneſs of Chriſt a <hi>truth,</hi> or not? or wrought <hi>within</hi> us only, and not <hi>without</hi> us?</item>
+                           <item>5. Whether that <hi>light</hi> which is in <hi>every</hi> man be <hi>Chriſt</hi> or not? if it be, whether is Chriſt manifeſt in <hi>every</hi> man or not? and then, whether can any be ignorant of the <hi>truth,</hi> in whom Chriſt is <hi>manifeſt?</hi> if not, where is the <hi>ground</hi> of this <hi>Queſtion,</hi> ſpeak plainly without <hi>ambiguity</hi> or double dealing.</item>
+                        </list>
+                     </div>
+                  </div>
+                  <div n="4" type="part">
+                     <head>The <hi>Quakers</hi> fourth <hi>Querie.</hi>
+                     </head>
+                     <p>
+                        <hi>Is there any</hi> other <hi>Chriſt the</hi> ſame <hi>yeſterday, to day and for ever? and are not they</hi> reprobates <hi>that this Chriſt is not</hi> in?</p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p>There is no <hi>other</hi> Chriſt, but he that died <hi>for our ſins</hi> accor<g ref="char:EOLhyphen"/>ding to the <hi>Scriptures,</hi> the <hi>ſame</hi> yeſterday, to day and for ever; and they are <hi>reprobates</hi> that this Chriſt is not <hi>in.</hi>
+                        </p>
+                        <p>Yet Chriſt is <hi>another</hi> then what he is, as manifeſt <hi>in us.</hi>
+                        </p>
+                        <p n="1">1. He is the <hi>ſecond Perſon</hi> in the Trinity, and as <hi>ſuch</hi> he is not <hi>manifeſt within us:</hi> he is <hi>within us</hi> in his <hi>Spirit,</hi> who is ſaid in Scripture, to be ſent into us, by the <hi>Son,</hi> as well as by the <hi>Father,</hi> which is the <hi>holy Ghoſt,</hi> diſtinct in <hi>perſon</hi> to the <hi>Father</hi> and <hi>Son:</hi> therefore we read of <hi>three that beare record</hi> 
+                           <note place="margin">
+                              <hi>Mat.</hi> 28.</note> 
+                           <hi>in Heaven,</hi> the <hi>Father,</hi> the <hi>Word</hi> and the <hi>Spirit;</hi> and the <hi>Word</hi> with the <hi>Father</hi> is ſaid to bear record in <hi>Heaven only,</hi> but the <hi>Spirit</hi> both in <hi>Heaven</hi> and <hi>earth.</hi>
+                        </p>
+                        <p n="2">2. Chriſt is <hi>man</hi> alſo, and as ſuch he is not <hi>manifeſt in us;</hi> for, as man he is only in <hi>one</hi> place <hi>viz.</hi> in <hi>Heaven:</hi> thus he was ſeen on earth, thus he <hi>ſuffered</hi> under <hi>Pontius Pilate,</hi> was <hi>crucified, dead</hi> and <hi>buried,</hi> and <hi>roſe again</hi> the third day: thus he <hi>aſcended</hi> up into the Heavens, which are appointed to <hi>con<g ref="char:EOLhyphen"/>tain</hi> 
+                           <note place="margin">
+                              <hi>Act.</hi> 3.</note> him, untill the <hi>reſtitution of all things.</hi>
+                        </p>
+                        <p>To ſay that Chriſt is in every man, is to <hi>contradict</hi> the <hi>Scripture</hi> mentioned, which ſaith, <hi>he is not in repro<g ref="char:EOLhyphen"/>bates.</hi> And to ſay, Chriſt is in <hi>every</hi> man, and yet to ac<g ref="char:EOLhyphen"/>knowledge he is not in <hi>reprobates</hi> is to <hi>contradict your ſelves.</hi>
+                        </p>
+                     </div>
+                     <div type="section">
+                        <pb n="6" facs="tcp:168419:17"/>
+                        <head>Counter-Queries <hi>ariſing from this</hi> fourth <hi>Query.</hi>
+                        </head>
+                        <list>
+                           <item>1. Whether hath Chriſt any humane <hi>body</hi> out of his <hi>Church?</hi> Or whether hath he a <hi>real</hi> body in <hi>Heaven;</hi> or in Heaven onely?</item>
+                           <item>2. Is Chriſt any <hi>other</hi> than what he is as <hi>manifeſt in man?</hi> Or did he ſuffer and die, being out of all <hi>other men</hi> for our <note place="margin">1 <hi>Cor.</hi> 15. 1, 2, 3, 4.</note> ſins according to the <hi>Scriptures?</hi>
+                           </item>
+                           <item>3. Had Chriſt the <hi>ſame</hi> body in the daies of <hi>Abraham,</hi> that he had in the daies of <hi>Herod?</hi> Anſwer <hi>plainly</hi> by the <hi>Scriptures.</hi>
+                           </item>
+                        </list>
+                     </div>
+                  </div>
+                  <div n="5" type="part">
+                     <head>The <hi>Quakers</hi> 5<hi rend="sup">th</hi> 
+                        <hi>Query.</hi>
+                     </head>
+                     <p>
+                        <hi>How, and by what couldſt thou have known there had been a</hi> Chriſt, <hi>and a</hi> Saviour, <hi>and a</hi> Mediatour, <hi>if the</hi> Scripture <hi>had not ſpoken of them? Anſwer, or let thy</hi> ſilence <hi>acknowledge thy</hi> ignorance <hi>or natural knowledge.</hi>
+                     </p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p>Unleſs the <hi>Scripture</hi> had ſpoken of Chriſt, I could not have known that there had been any <hi>ſuch Saviour,</hi> but by the <hi>revelation</hi> of <hi>God, Angels</hi> or <hi>men.</hi> Yet, neither <hi>Angels</hi> nor <hi>men</hi> could have revealed it to me, unleſs <hi>God</hi> (the <hi>Father, Son,</hi> and <hi>Holy Ghoſt)</hi> had <hi>firſt</hi> made it known unto <hi>them;</hi> So <hi>great</hi> 
+                           <note place="margin">1 <hi>Pet.</hi> 1.</note> 
+                           <hi>a Miſtery</hi> is God <hi>manifeſted in the fleſh.</hi>
+                        </p>
+                        <p>Thus, Chriſt was at <hi>firſt revealed</hi> by <hi>God</hi> himſelf; other<g ref="char:EOLhyphen"/>wiſe he had <hi>never</hi> been <hi>known;</hi> which <hi>revelation</hi> being now <hi>written</hi> by holy <hi>men</hi> of God, moved by the <hi>Holy Ghoſt,</hi> is become <hi>Scripture;</hi> the <hi>onely ordinary</hi> way of making known unto men this <hi>Jeſus Chriſt</hi> without <hi>ſpecial revelation.</hi> There<g ref="char:EOLhyphen"/>fore, thoſe that would <hi>now attain</hi> to the knowledge of <hi>Chriſt,</hi> muſt <hi>ſearch the Scriptures, for they are they that teſtifie of Chriſt. Natural</hi> light cannot diſcover him, neither may we expect <hi>new revelation,</hi> ſeeing the <hi>old</hi> is acknowledged to be <hi>ſufficient.</hi>
+                        </p>
+                     </div>
+                     <div type="section">
+                        <pb n="7" facs="tcp:168419:17"/>
+                        <head>
+                           <hi>The</hi> Counter-Queries <hi>ariſing from this</hi> 5<hi rend="sup">th</hi> 
+                           <hi>Query.</hi>
+                        </head>
+                        <list>
+                           <item>1. Whether the <hi>light</hi> which is in <hi>every man,</hi> is able to diſcover <hi>Chriſt</hi> the <hi>Saviour,</hi> without the help of <hi>Scrip<g ref="char:EOLhyphen"/>tures?</hi>
+                           </item>
+                           <item>2. Whether <hi>Angels</hi> have not as much <hi>natural</hi> light as <hi>men?</hi> And why then do they look down into the <hi>Church</hi> for the knowledge of the <hi>Miſtery</hi> of Chriſt?</item>
+                           <item>3. Whether <hi>Chriſt, Saviour,</hi> and <hi>Mediatour,</hi> be <hi>different</hi> perſons? If not, why then do you ſpeak of <hi>[them?]</hi>
+                           </item>
+                           <item>4 Seeing nothing but <hi>God</hi> by his own <hi>word,</hi> could <hi>reveale</hi> this Chriſt; Whether the <hi>Scripture</hi> which onely ſpeaks of Chriſt be not the <hi>Word</hi> of <hi>God?</hi>
+                           </item>
+                        </list>
+                        <p>Let not your <hi>ſilence</hi> acknowledge your <hi>ignorance,</hi> or your <hi>Anſwer</hi> your <hi>error,</hi> in ſo <hi>great</hi> concernments.</p>
+                     </div>
+                  </div>
+                  <div n="6-7" type="part">
+                     <head>The <hi>Quakers</hi> 6 and 7 Queſtions.</head>
+                     <p>
+                        <hi>Haſt thou the</hi> Spirit <hi>of Chriſt, yea or nay? Is the</hi> hope <hi>that is in thee</hi> Chriſt, <hi>yea or nay?</hi>
+                     </p>
+                     <p>I chooſe, rather to leave theſe <hi>two</hi> Queſtions for M<hi rend="sup">r</hi> 
+                        <hi>Pitts</hi> his own <hi>plain</hi> Anſwer.</p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> Counter-Queries <hi>hence ariſing.</hi>
+                        </head>
+                        <list>
+                           <item>1. Whether thoſe that have the <hi>true light ſhining</hi> in their hearts, have not the <hi>Spirit</hi> of Chriſt? And whether all have not this <hi>true light ſhining</hi> in their hearts? And then, whether all have not the <hi>Spirit of Chriſt?</hi> And then, is it not ſtrange if M<hi rend="sup">r</hi> 
+                              <hi>Pitt</hi> want it?</item>
+                           <item>2. Whether all that have the <hi>Spirit of Chriſt</hi> be not <hi>Chriſts?</hi>
+                           </item>
+                           <item>3. Whether <hi>Chriſt</hi> and <hi>hope</hi> be all one? If ſo, whether <hi>hope died</hi> for our ſins according to the Scriptures? Whether hope be in <hi>Heaven</hi> contrary to 1 <hi>Cor.</hi> 13. Or Chriſt be <hi>not</hi> in Heaven contrary to <hi>Act.</hi> 3. 21.</item>
+                        </list>
+                     </div>
+                  </div>
+                  <div n="8" type="part">
+                     <pb n="8" facs="tcp:168419:18"/>
+                     <head>The <hi>Quakers</hi> 8<hi rend="sup">th</hi> 
+                        <hi>Query.</hi>
+                     </head>
+                     <p>
+                        <hi>Whether</hi> Chriſt <hi>and his</hi> Apoſtles meant, <hi>as they</hi> ſpake? <hi>Or whether they left their</hi> words <hi>for</hi> Learned<hi>-men to give</hi> another <hi>interpretation of their words? Yea or nay.</hi>
+                     </p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p>
+                           <hi>Chriſt</hi> and his <hi>Apoſtles mean</hi> as <hi>they ſpake:</hi> they left not <hi>their words</hi> for <hi>Learned-</hi>men to give <hi>another</hi> interpreta<g ref="char:EOLhyphen"/>tion of them.</p>
+                        <p>Yet in their <hi>words,</hi> there are <hi>ſome things hard to be under<g ref="char:EOLhyphen"/>ſtood,</hi> which <hi>learned</hi> and <hi>ſtable</hi> men alone, can give the <hi>true</hi> interpretation of; ſeeing men <hi>unlearned,</hi> and <hi>unſtable, wrest the Scripture,</hi> to their own deſtruction. <note place="margin">2 <hi>Pet.</hi> 3. 16.</note>
+                        </p>
+                     </div>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> Counter-Queries <hi>ariſing from this</hi> 8<hi rend="sup">th</hi> 
+                           <hi>Query.</hi>
+                        </head>
+                        <list>
+                           <item>1. Whether you have heard that any ever ſaid, That <hi>Chriſt and his Apoſtles did not ſpeak as they meant?</hi> If not, then what do you <hi>mean</hi> in <hi>speaking</hi> thus perverſly? Or whether ever any ſaid, that they left <hi>their</hi> words for <hi>Lear<g ref="char:EOLhyphen"/>ned</hi> men to give <hi>another</hi> interpretation thereof? If not, Why do you ſo <hi>wickedly queſtion</hi> and mis-interpret the <hi>labours</hi> of <hi>Learned</hi> men?</item>
+                           <item>2. What do you mean by <hi>Learned-men?</hi> Or what have you to ſay againſt true Learning, that comes not from <hi>igno<g ref="char:EOLhyphen"/>rance</hi> or <hi>malice?</hi>
+                           </item>
+                        </list>
+                     </div>
+                  </div>
+                  <div n="9" type="part">
+                     <head>The Quakers 9<hi rend="sup">th</hi> Queſtion.</head>
+                     <p>
+                        <hi>Whether he be a</hi> Miniſter of Chriſt, <hi>that is out of</hi> Chriſts Doctrine? <hi>Yea or nay.</hi>
+                     </p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p>He that is <hi>wholly</hi> out of Chriſts Doctrine, is not a <hi>Mi<g ref="char:EOLhyphen"/>niſter</hi> of Chriſt; but he may be a <hi>Miniſter</hi> of Chriſt, <note place="margin">
+                              <hi>Gal.</hi> 2. 11. 12</note> that is <hi>partly</hi> out of Chriſts Doctrine as <hi>Peter</hi> was.</p>
+                     </div>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> Counter-Queries <hi>ariſing from this</hi> 9<hi rend="sup">th</hi> 
+                           <hi>Query.</hi>
+                        </head>
+                        <pb n="9" facs="tcp:168419:18"/>
+                        <list>
+                           <item>1. Whether Chriſts <hi>making ſatisfation</hi> for the ſin of man is not the <hi>great fundamentall</hi> Doctrine of Chriſt, both in the <hi>Law</hi> and <hi>Goſpel?</hi>
+                           </item>
+                           <item>2. Whether he that denieth this <hi>ſatisfaction</hi> of Chriſt, is not fundamentally out of Chriſts Doctrine?</item>
+                           <item>3. Whether thoſe that hold that Chriſt came into the world but either to aboliſh the <hi>Ceremonies,</hi> or but to be an example of an holy life, doth not deny this <hi>ſatisfaction</hi> of Chriſt?</item>
+                           <item>4. Then whether he be a Miniſter of Chriſt, that affirmeth, that Chriſt came into the world for no other end, but to aboliſh the Ceremonies <note n="a" place="margin">As the Qua<g ref="char:EOLhyphen"/>ker to M<hi rend="sup">r</hi> 
+                                 <hi>Timpſon</hi> did.</note>, or to be an example of an holy life <note n="b" place="margin">As <hi>Fox</hi> inſi<g ref="char:EOLhyphen"/>nuates.</note>?</item>
+                        </list>
+                     </div>
+                  </div>
+                  <div n="10" type="part">
+                     <head>The Quakers 10<hi rend="sup">th</hi> Queſtion.</head>
+                     <p>
+                        <hi>Whether is he in the</hi> Doctrine <hi>of Chriſt that ſtands in the</hi> chiefeſt <hi>place of the</hi> Aſſemblies? <hi>Yea or nay.</hi>
+                     </p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p>Some may be <hi>in the Doctrine</hi> of Chriſt that <hi>ſtand</hi> in the <hi>chiefeſt</hi> place of the <hi>Aſſemblies:</hi> as well as they in the <hi>Do<g ref="char:EOLhyphen"/>ctrine of God,</hi> that <hi>ſate in Moſes Chair.</hi>
+                        </p>
+                     </div>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> Counter-Queries <hi>ariſing from this</hi> 10<hi rend="sup">th</hi> 
+                           <hi>Query.</hi>
+                        </head>
+                        <list>
+                           <item>1. What do you <hi>mean</hi> by being <hi>in Chriſts Doctrine?</hi> Whether by holding it, or by obeying it?</item>
+                           <item>2. May not <hi>he</hi> that ſtands in the <hi>chiefeſt</hi> place in the <hi>Aſſem<g ref="char:EOLhyphen"/>blies</hi> both <hi>maintain</hi> and <hi>obey</hi> the Doctrine of Chriſt? and con<g ref="char:EOLhyphen"/>ſequently be a <hi>Miniſter</hi> of Chriſt?</item>
+                           <item>3. Whether may not he be a <hi>Miniſter</hi> of Chriſt that walks not in <hi>all reſpects,</hi> according to the <hi>Doctrine</hi> of Chriſt: as well as he a Miniſter of <hi>Moſes,</hi> or rather of <hi>God,</hi> that <hi>ſate in Moſes Chair,</hi> and ſpake the <hi>Word</hi> of God, though <hi>he ſaid,</hi> and <hi>did not?</hi>
+                           </item>
+                           <item>4. Whether do you call the <hi>Pulpit</hi> the <hi>chiefeſt</hi> place? If ſo, Whether, becauſe it is the <hi>higheſt</hi> place? If ſo, Whether, he that <hi>ſtands</hi> upon a <hi>forme</hi> or in a <hi>window above</hi> the <hi>reſt</hi> of
+<pb n="10" facs="tcp:168419:19"/> the <hi>people,</hi> ſtand not in the <hi>chiefeſt</hi> place in the <hi>Aſſembly?</hi> And whether ſuch a one can be a Miniſter of Chriſt? Or no?</item>
+                        </list>
+                     </div>
+                  </div>
+                  <div n="11" type="part">
+                     <head>The Quakers 11<hi rend="sup">th</hi> Query.</head>
+                     <p>
+                        <hi>Whether is he a Miniſter of Chriſt that</hi> ſprinkles Infants? <hi>yea or nay; and cals it an</hi> Ordinance <hi>of Chriſt, when there is no ſuch</hi> Scripture?</p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p>The <hi>Baptizing of Infants,</hi> is <hi>according to Scripture;</hi> where<g ref="char:EOLhyphen"/>in, <hi>Circumciſion,</hi> a <hi>Seal,</hi> belonging to <hi>Infants,</hi> born <hi>in</hi> the <hi>Church,</hi> is <hi>taken away,</hi> and no <hi>other</hi> Seal is brought in the <hi>room</hi> thereof, for <hi>Infants now born</hi> in the <hi>Church</hi> but <hi>Baptiſme.</hi>
+                        </p>
+                        <p>The <hi>Scripture</hi> tels us plainly, that Baptiſme is the <hi>Chri<g ref="char:EOLhyphen"/>ſtian Circumciſion,</hi> or the Circumciſion <hi>of Chriſt.</hi> Col. 2. 11, 12. With the <hi>Circumciſion of Chriſt</hi> being buried with him in <hi>Baptiſme.</hi>
+                        </p>
+                        <p>The right of <hi>Infants</hi> to the <hi>firſt Seal,</hi> was never aboliſhed, though the <hi>Seal</hi> indeed was <hi>changed,</hi> Circumciſion <hi>Jewiſh,</hi> in<g ref="char:EOLhyphen"/>to Circumciſion <hi>Chriſtian,</hi> viz. <hi>Baptiſme.</hi>
+                        </p>
+                        <p>Circumciſion being a <hi>Sign and Seal of the righteouſneſs of</hi> 
+                           <note place="margin">
+                              <hi>Rom.</hi> 4 11.</note> 
+                           <hi>Faith,</hi> and <hi>Baptiſme</hi> being <hi>no more,</hi> and Infants being <hi>capa<g ref="char:EOLhyphen"/>ble</hi> of Circumciſion, they are alſo as <hi>capable</hi> of Baptiſme.</p>
+                        <p>Childrens <hi>ſtate</hi> in the <hi>Covenant,</hi> was never repealed; their <hi>intereſt</hi> in the <hi>Promiſe,</hi> is ſtill continued. Chriſts <hi>love</hi> to In<g ref="char:EOLhyphen"/>fants, and deſire of <hi>Communion</hi> with <hi>them,</hi> is abundantly teſtified in the <hi>New Teſtament.</hi> Therefore the <hi>Seal</hi> of the <hi>Covenant</hi> and <hi>Promiſe,</hi> the <hi>pledg</hi> of Chriſts <hi>favour,</hi> and the <hi>onely mean</hi> of their <hi>Communion</hi> with him, <hi>viz. Baptiſme</hi> is not to be denied them.</p>
+                        <p>The <hi>Scripture</hi> certifieth that <hi>Baptiſme</hi> is an Ordinance of Chriſt: therein Chriſt commands it to <hi>all Nations;</hi> therein Chriſt never <hi>limited</hi> it to <hi>grown perſons,</hi> or <hi>denied</hi> it to <hi>In<g ref="char:EOLhyphen"/>fants:</hi> and <hi>they</hi> having a right before to that Ordinance, <hi>whoſe</hi> room <hi>Baptiſme ſupplies, they</hi> need no <hi>new Commiſſion,</hi>
+                           <pb n="11" facs="tcp:168419:19"/> to take <hi>poſſeſſion</hi> of that, which is brought in the <hi>room</hi> of <hi>that, which before</hi> they had an undoubted <hi>right</hi> un<g ref="char:EOLhyphen"/>to.</p>
+                     </div>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> Counter-Queries <hi>ariſing from this</hi> 11<hi rend="sup">th</hi> 
+                           <hi>Query.</hi>
+                        </head>
+                        <list>
+                           <item>1. Whether ſuch as <hi>despiſe</hi> the <hi>regeneration of water,</hi> can <note place="margin">
+                                 <hi>Joh.</hi> 5. 5.</note> enter into the <hi>Kingdom</hi> of God?</item>
+                           <item>2. Whether thoſe are <hi>Chriſtians</hi> that refuſe Water-Bap<g ref="char:EOLhyphen"/>tiſme?</item>
+                           <item>3. Whether he be a <hi>Miniſter</hi> of Chriſt, that <hi>denieth</hi> Wa<g ref="char:EOLhyphen"/>ter-Baptiſme?</item>
+                           <item>4. Whether Water-Baptiſme be an <hi>Ordinance</hi> of Chriſt?</item>
+                           <item>5. Whether the application of it to <hi>Infants,</hi> doth make it no <hi>Ordinance</hi> of Chriſt?</item>
+                           <item>6. Whether there were none Baptized with <hi>water,</hi> menti<g ref="char:EOLhyphen"/>oned in <hi>Scripture</hi> after Chriſts aſcenſion?</item>
+                           <item>7. Whether that be not the trick of a <hi>deceiver,</hi> to cry out againſt <hi>ſprinkling Infants,</hi> when as he alloweth no <hi>water-Baptiſm</hi> at all.</item>
+                        </list>
+                     </div>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> Quakers <hi>Subſcription.</hi>
+                        </head>
+                        <p>
+                           <hi>Without thy</hi> meaning, <hi>and</hi> private <hi>interpretations, anſwer theſe</hi> queries <hi>by</hi> plain Scripture, <hi>or let thy</hi> mouth be ſtop'd for ever.</p>
+                        <p>The Queſtion hereupon is, Whether by his own <hi>Law</hi> and <hi>reaſon,</hi> the <hi>mouth</hi> of this <hi>James Godfrey</hi> ſhould not have been <hi>stopp'd,</hi> before he made theſe <hi>doting Queſtions;</hi> ſeeing they are not to be found in any <hi>plain Scripture,</hi> without his <hi>mean<g ref="char:EOLhyphen"/>ings</hi> and <hi>private interpretations?</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="postscript">
+                     <head>
+                        <hi>Poſt-ſcript,</hi> containing an <hi>addition</hi> of the <hi>Quakers</hi> 12, and 13, <hi>Queries,</hi> viz.</head>
+                     <p>12. <hi>Where is that</hi> light <hi>that</hi> John <hi>ſpake of; the one he</hi> loved <hi>it, and brought his deeds to the light, the other</hi> hated <hi>the light, and will not bring his deeds to the light, becauſe his</hi> deeds <hi>are evil?</hi>
+                     </p>
+                     <pb n="12" facs="tcp:168419:20"/>
+                     <p> 13. <hi>Whether is that</hi> light, <hi>a</hi> blind fanſie, <hi>that manifeſts</hi> ſin <hi>and evil deeds?</hi> or <hi>whether is not he a</hi> deluder <hi>and a</hi> blaſphe<g ref="char:EOLhyphen"/>mer, <hi>that calls it a</hi> blind fanſie?</p>
+                     <div type="section">
+                        <head>
+                           <hi>The</hi> plain <hi>Anſwer.</hi>
+                        </head>
+                        <p n="1">1. The <hi>light</hi> which <hi>John</hi> ſpake of is in the <hi>Goſpel,</hi> and the <hi>Goſpel-Miniſtry</hi> which <hi>you hate.</hi>
+                        </p>
+                        <p n="2">2. <hi>That light</hi> which manifeſts <hi>ſin</hi> is not a <hi>blind</hi> fanſie. But <hi>he</hi> that ſaith, that <hi>every light</hi> which <hi>manifeſts ſin</hi> is a <hi>ſaving light;</hi> or that that light, which is in <hi>every man,</hi> is ſufficient to diſcover and <hi>lead men to Chriſt,</hi> is under the <hi>darkneſs</hi> of his own <hi>fanſie,</hi> having ſo far left, the <hi>true light,</hi> the <hi>word of God.</hi>
+                        </p>
+                        <p>
+                           <hi>James Godfrey,</hi> Speak forth the words of truth and <hi>ſoberneſs.</hi> Lean not unto <hi>thine own</hi> underſtanding. Be not wiſe above <hi>what is written.</hi>
+                        </p>
+                        <p>Be not wiſe in <hi>thine own conceit,</hi> rightly applying that of <note place="margin">1 Cor. 8. 2.</note> the Apoſtle; He that thinketh he knoweth <hi>any thing,</hi> know<g ref="char:EOLhyphen"/>eth nothing <hi>yet</hi> as he <hi>ought to know.</hi>
+                        </p>
+                        <closer>
+                           <signed>F. F.</signed>
+                        </closer>
+                     </div>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:168419:20"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
